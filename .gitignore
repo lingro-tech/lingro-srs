@@ -1,0 +1,6 @@
+.venv/
+.env
+data/
+subtitles-cleaner/1/corpus/
+subtitles-cleaner/1/logs/
+subtitles-cleaner/1/logs_3w/

@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <title>SRS Debug</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    body {
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      margin: 0;
+      padding: 16px;
+      background: #111;
+      color: #eee;
+    }
+    .container {
+      max-width: 800px;
+      margin: 0 auto;
+    }
+    h1 {
+      font-size: 1.4rem;
+      margin-bottom: 0.5rem;
+    }
+    #phrase {
+      font-size: 1.8rem;
+      margin: 1.5rem 0;
+      line-height: 1.4;
+    }
+    .target {
+      padding: 0 4px;
+      border-radius: 4px;
+      background: #333;
+      border-bottom: 2px solid #0af;
+    }
+    .meta {
+      font-size: 0.9rem;
+      color: #aaa;
+      margin-bottom: 1.5rem;
+    }
+    .buttons {
+      display: flex;
+      gap: 12px;
+      margin-bottom: 1rem;
+    }
+    button {
+      flex: 1;
+      border: none;
+      padding: 12px;
+      border-radius: 8px;
+      font-size: 1rem;
+      font-weight: 600;
+      cursor: pointer;
+      color: #fff;
+    }
+    button:disabled {
+      opacity: 0.4;
+      cursor: default;
+    }
+    .btn-red    { background: #d32f2f; }
+    .btn-yellow { background: #f9a825; color: #111; }
+    .btn-green  { background: #388e3c; }
+
+    .status {
+      font-size: 0.9rem;
+      color: #7dd3fc;
+      min-height: 1.2rem;
+    }
+
+    @media (max-width: 600px) {
+      #phrase {
+        font-size: 1.4rem;
+      }
+      .buttons {
+        flex-direction: column;
+      }
+    }
+  </style>
+</head>
+<body>
+<div class="container">
+  <h1>SRS Debug UI</h1>
+
+  <div id="phrase">Загрузка...</div>
+  <div class="meta" id="meta"></div>
+
+  <div class="buttons">
+    <button class="btn-red"    id="btn-red">Не знаю</button>
+    <button class="btn-yellow" id="btn-yellow">Знаю</button>
+    <button class="btn-green"  id="btn-green">Отлично знаю</button>
+  </div>
+
+  <div class="status" id="status"></div>
+</div>
+
+<script>
+  const userId = 1;
+  let currentPhraseId = null;
+
+  const phraseEl = document.getElementById('phrase');
+  const metaEl = document.getElementById('meta');
+  const statusEl = document.getElementById('status');
+
+  const btnRed = document.getElementById('btn-red');
+  const btnYellow = document.getElementById('btn-yellow');
+  const btnGreen = document.getElementById('btn-green');
+
+  function setButtonsDisabled(disabled) {
+    [btnRed, btnYellow, btnGreen].forEach(b => b.disabled = disabled);
+  }
+
+  async function loadNextPhrase() {
+    setButtonsDisabled(true);
+    statusEl.textContent = 'Загрузка фразы...';
+
+    try {
+      const resp = await fetch(`/api/next_phrase?user_id=${userId}`);
+      const data = await resp.json();
+
+      if (data.status !== 'OK') {
+        phraseEl.textContent = 'Фразы не найдены.';
+        metaEl.textContent = '';
+        statusEl.textContent = 'NO_PHRASE';
+        currentPhraseId = null;
+        return;
+      }
+
+      currentPhraseId = data.phrase_id;
+
+      const phrase = data.phrase;
+      const target = data.target_word;
+
+      if (target) {
+        // простая подсветка: обернуть первое вхождение target в span
+        const re = new RegExp(`\\b${target}\\b`, 'i');
+        const htmlPhrase = phrase.replace(re, m => `<span class="target">${m}</span>`);
+        phraseEl.innerHTML = htmlPhrase;
+      } else {
+        phraseEl.textContent = phrase;
+      }
+
+      metaEl.textContent =
+        `mode=${data.mode}, freq=${data.freq}, ` +
+        `n_new=${data.n_new}, n_intro=${data.n_intro}, n_learn=${data.n_learn}`;
+
+      statusEl.textContent = '';
+      setButtonsDisabled(false);
+    } catch (e) {
+      console.error(e);
+      phraseEl.textContent = 'Ошибка загрузки фразы.';
+      metaEl.textContent = '';
+      statusEl.textContent = 'ERROR';
+    }
+  }
+
+  async function sendAnswer(color) {
+    if (!currentPhraseId === null) return;
+
+    setButtonsDisabled(true);
+    statusEl.textContent = `Отправка ответа: ${color}...`;
+
+    try {
+      const resp = await fetch('/api/answer', {
+        method: 'POST',
+        headers: {'Content-Type': 'application/json'},
+        body: JSON.stringify({
+          user_id: userId,
+          phrase_id: currentPhraseId,
+          answer_color: color
+        })
+      });
+      const data = await resp.json();
+      if (data.status === 'OK') {
+        statusEl.textContent = '';
+        await loadNextPhrase();
+      } else {
+        statusEl.textContent = 'Ответ не принят.';
+      }
+    } catch (e) {
+      console.error(e);
+      statusEl.textContent = 'Ошибка отправки ответа.';
+      setButtonsDisabled(false);
+    }
+  }
+
+  btnRed.addEventListener('click',    () => sendAnswer('red'));
+  btnYellow.addEventListener('click', () => sendAnswer('yellow'));
+  btnGreen.addEventListener('click',  () => sendAnswer('green'));
+
+  loadNextPhrase();
+</script>
+</body>
+</html>
