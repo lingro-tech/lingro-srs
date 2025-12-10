@@ -2,6 +2,7 @@ from fastapi import FastAPI
 
 from .api.v1.routes_auth import router as auth_router
 from .api.v1.routes_srs import router as srs_router
+from .db.session import init_models
 
 app = FastAPI(
     title="Lingro SRS API",
@@ -12,6 +13,12 @@ app = FastAPI(
 @app.get("/health")
 async def health():
     return {"status": "ok"}
+
+
+@app.on_event("startup")
+async def on_startup():
+    # Создаём таблицы, если их нет. Пока простая синхронная инициализация для SQLite.
+    init_models()
 
 
 # Подключаем namespace /api/v1/auth
