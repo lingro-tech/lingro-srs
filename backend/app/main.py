@@ -2,6 +2,7 @@ from fastapi import FastAPI
 
 from .api.v1.routes_auth import router as auth_router
 from .api.v1.routes_srs import router as srs_router
+from .api.v1.routes_users import router as users_router
 from .db.session import init_models
 
 app = FastAPI(
@@ -26,3 +27,6 @@ app.include_router(auth_router, prefix="/api/v1/auth", tags=["auth"])
 
 # SRS эндпоинты
 app.include_router(srs_router, prefix="/api/v1/srs", tags=["srs"])
+
+# Пользовательские эндпоинты
+app.include_router(users_router, prefix="/api/v1", tags=["users"])
