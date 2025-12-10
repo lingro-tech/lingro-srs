@@ -1,0 +1,8 @@
+# Зависимости backend (FastAPI + PostgreSQL и пр.)
+fastapi
+uvicorn[standard]
+# sqlalchemy или sqlmodel — выбрать нужное
+sqlalchemy
+psycopg[binary]
+pydantic
+python-jose[cryptography]

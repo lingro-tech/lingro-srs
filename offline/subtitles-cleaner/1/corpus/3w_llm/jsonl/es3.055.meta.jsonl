@@ -1,0 +1,654 @@
+{"line_no": 1, "orig": "- Me parece justo.", "clean": "Me parece justo.", "llm_keep": true}
+{"line_no": 2, "orig": "¿Cómo me veo?", "clean": "¿Cómo me veo?", "llm_keep": true}
+{"line_no": 3, "orig": "- ¿Trajiste el dinero?", "clean": "¿Trajiste el dinero?", "llm_keep": true}
+{"line_no": 4, "orig": "No te ofendas.", "clean": "No te ofendas.", "llm_keep": true}
+{"line_no": 5, "orig": "Claro que sí.", "clean": "Claro que sí.", "llm_keep": true}
+{"line_no": 6, "orig": "Así se habla.", "clean": "Así se habla.", "llm_keep": true}
+{"line_no": 7, "orig": "Es un burro.", "clean": "Es un burro.", "llm_keep": true}
+{"line_no": 8, "orig": "Vuelve conmigo Billie.", "clean": "Vuelve conmigo Billie.", "llm_keep": true}
+{"line_no": 9, "orig": "Ahora, este palo...", "clean": "Ahora, este palo...", "llm_keep": true}
+{"line_no": 10, "orig": "Trabajando, como siempre.", "clean": "Trabajando, como siempre.", "llm_keep": true}
+{"line_no": 11, "orig": "Veo la luz.", "clean": "Vejo la luz.", "llm_keep": true}
+{"line_no": 12, "orig": "- El doctor terrible!", "clean": "- El doctor terrible!", "llm_keep": true}
+{"line_no": 13, "orig": "Bien como siempre.", "clean": "Bien como siempre.", "llm_keep": true}
+{"line_no": 14, "orig": "Te fuiste temprano.", "clean": "Te fuiste temprano.", "llm_keep": true}
+{"line_no": 15, "orig": "Camina bastante rápido.", "clean": "Camina bastante rápido.", "llm_keep": true}
+{"line_no": 16, "orig": "La última mitad.", "clean": "La última mitad.", "llm_keep": true}
+{"line_no": 32, "orig": "Tenia que salir.", "clean": "tenia que salir", "llm_keep": true}
+{"line_no": 34, "orig": "Es mi mamá.", "clean": "abogada del parque", "llm_keep": true}
+{"line_no": 35, "orig": "¿Qué quieres exactamente?", "clean": "es mi mamá", "llm_keep": true}
+{"line_no": 36, "orig": "- y lo siento\".", "clean": "- y lo siento", "llm_keep": true}
+{"line_no": 37, "orig": "Grover, sólo cómelo.", "clean": "grover, solo come", "llm_keep": true}
+{"line_no": 38, "orig": "No sé, sabes.", "clean": "no sé, sabes", "llm_keep": true}
+{"line_no": 39, "orig": "¿Es tu amiga?", "clean": "¿es tu amiga?", "llm_keep": true}
+{"line_no": 40, "orig": "Estás en problemas.", "clean": "estás en problemas", "llm_keep": true}
+{"line_no": 41, "orig": "- No, está bien.", "clean": "- no, está bien", "llm_keep": true}
+{"line_no": 42, "orig": "Fíjate en esto.", "clean": "fijate en esto", "llm_keep": true}
+{"line_no": 43, "orig": "Ni lo mío.", "clean": "ni lo mio", "llm_keep": true}
+{"line_no": 44, "orig": "¿Confías en él?", "clean": "confías en él?", "llm_keep": true}
+{"line_no": 45, "orig": "Sí, bien, esperaré.", "clean": "sí, bien, esperaré", "llm_keep": true}
+{"line_no": 46, "orig": "Katie. ¿Cómo estamos?", "clean": "katie. cómo estamos?", "llm_keep": true}
+{"line_no": 47, "orig": "Siempre lo supe.", "clean": "siempre lo supi", "llm_keep": true}
+{"line_no": 48, "orig": "No lo hiciste.", "clean": "no lo hiciste", "llm_keep": true}
+{"line_no": 96, "orig": "Robin, está bien.", "clean": "Robin está bien.", "llm_keep": true}
+{"line_no": 98, "orig": "- Hola. ¿Me recuerdas?", "clean": "Hola. ¿Te recuerdo?", "llm_keep": true}
+{"line_no": 99, "orig": "Bastante probable, si.", "clean": "Bastante probable, si.", "llm_keep": true}
+{"line_no": 100, "orig": "- ¿Qué estás haciendo?", "clean": "- ¿Qué estás haciendo?", "llm_keep": true}
+{"line_no": 101, "orig": "Sí, la tuve.", "clean": "Sí, la tuve.", "llm_keep": true}
+{"line_no": 102, "orig": "Lo que sea.", "clean": "Lo que sea.", "llm_keep": true}
+{"line_no": 103, "orig": "- Te llamo después.", "clean": "- Te llamo después.", "llm_keep": true}
+{"line_no": 104, "orig": "He sido robado.", "clean": "He sido robado.", "llm_keep": true}
+{"line_no": 105, "orig": "Ajustes y Corrección:", "clean": "Ajustes y Corrección:", "llm_keep": true}
+{"line_no": 106, "orig": "- Voy a frotarlo.", "clean": "- Voy a frotarlo.", "llm_keep": true}
+{"line_no": 107, "orig": "Sí, lo haces.", "clean": "Sí, lo haces.", "llm_keep": true}
+{"line_no": 108, "orig": "¿Dónde está Peter?", "clean": "¿Dónde está Peter?", "llm_keep": true}
+{"line_no": 109, "orig": "No te pases.", "clean": "No te pases.", "llm_keep": true}
+{"line_no": 110, "orig": "Peter y yo...", "clean": "Peter y yo...", "llm_keep": true}
+{"line_no": 111, "orig": "¡Así que, ayúdame!", "clean": "! Así que, ayúdame!", "llm_keep": true}
+{"line_no": 128, "orig": "si, si, gracias", "clean": "si si gracias", "llm_keep": true}
+{"line_no": 130, "orig": "- ¡Sí, excelente idea!", "clean": "sí excelente idea", "llm_keep": true}
+{"line_no": 131, "orig": "Espera un segundo.", "clean": "espera segundo", "llm_keep": true}
+{"line_no": 132, "orig": "Eso es inaceptable.", "clean": "eso inaceptable", "llm_keep": true}
+{"line_no": 133, "orig": "- Sí, el campeonato.", "clean": "sí campeonato", "llm_keep": true}
+{"line_no": 134, "orig": "Apréndelo, vívelo, ámalo.", "clean": "aprendelo vivelo amalo", "llm_keep": true}
+{"line_no": 135, "orig": "¿Qué hay, Joe?", "clean": "qué hay joe", "llm_keep": true}
+{"line_no": 136, "orig": "- ¡Sr. Kingman, espere!", "clean": "espere sr kingman", "llm_keep": true}
+{"line_no": 137, "orig": "No es chistoso.", "clean": "no chistoso", "llm_keep": true}
+{"line_no": 138, "orig": "Controla al mundo.", "clean": "controla mundo", "llm_keep": true}
+{"line_no": 139, "orig": "Tatianna te extrañará.", "clean": "tatianna te extrañará", "llm_keep": true}
+{"line_no": 140, "orig": "Se está cortando.", "clean": "se está cortando", "llm_keep": true}
+{"line_no": 141, "orig": "No te preocupes.", "clean": "no te preocupes", "llm_keep": true}
+{"line_no": 142, "orig": "Sanders, ¿adónde vas?", "clean": "sanders adónde vas", "llm_keep": true}
+{"line_no": 288, "orig": "Podré con ellos.", "clean": "podre con ellos", "llm_keep": true}
+{"line_no": 352, "orig": "Tienen esperanzas, sueños.", "clean": "tienen esperanzas, sueños.", "llm_keep": true}
+{"line_no": 576, "orig": "Eres un ganador.", "clean": "eres un ganador", "llm_keep": true}
+{"line_no": 704, "orig": "¡Acabamos de terminar!", "clean": "Acabamos de terminar.", "llm_keep": true}
+{"line_no": 705, "orig": "No causes problemas.", "clean": "No causes problemas.", "llm_keep": true}
+{"line_no": 706, "orig": "Robin está muerto.", "clean": "Robin está muerto.", "llm_keep": true}
+{"line_no": 707, "orig": "Bueno, no importa.", "clean": "Bueno, no importa.", "llm_keep": true}
+{"line_no": 708, "orig": "Will y yo...", "clean": "Will y yo...", "llm_keep": true}
+{"line_no": 709, "orig": "No lo sé.", "clean": "No lo sé.", "llm_keep": true}
+{"line_no": 710, "orig": "Quiero encontrarla ahora.", "clean": "Quiero encontrarla ahora.", "llm_keep": true}
+{"line_no": 711, "orig": "- No me molesta.", "clean": "- No me molesta.", "llm_keep": true}
+{"line_no": 712, "orig": "Cicerón es interesante.", "clean": "Cicerón es interesante.", "llm_keep": true}
+{"line_no": 713, "orig": "Vendí la mitad.", "clean": "Vendí la mitad.", "llm_keep": true}
+{"line_no": 714, "orig": "Sí, podríamos hacerlo.", "clean": "Sí, podríamos hacerlo.", "llm_keep": true}
+{"line_no": 715, "orig": "Un buen golpe.", "clean": "Un buen golpe.", "llm_keep": true}
+{"line_no": 716, "orig": "- ¿Y entonces qué?", "clean": "- ¿Y entonces qué?", "llm_keep": true}
+{"line_no": 717, "orig": "Gordo de mierda.", "clean": "Gordo de mierda.", "llm_keep": true}
+{"line_no": 718, "orig": "¿Dónde está entonces?", "clean": "?¿Y entonces qué?", "llm_keep": true}
+{"line_no": 719, "orig": "- Guerra de ofertas.", "clean": "Guerra de ofertas.", "llm_keep": true}
+{"line_no": 736, "orig": "¿Coges el bus?", "clean": "coges bus", "llm_keep": true}
+{"line_no": 738, "orig": "-No, vamos, cuéntame.", "clean": "soy tu madre", "llm_keep": true}
+{"line_no": 739, "orig": "-¿Tan barato es?", "clean": "es tan barato", "llm_keep": true}
+{"line_no": 741, "orig": "¿A quién llamas?", "clean": "llamas a alguien", "llm_keep": true}
+{"line_no": 742, "orig": "Está bien, Papá.", "clean": "bien papá", "llm_keep": true}
+{"line_no": 743, "orig": "¿Trabajo por día?", "clean": "trabaja por dia", "llm_keep": true}
+{"line_no": 744, "orig": "- ¿Todo bien, Jamie?", "clean": "todo bien jamie", "llm_keep": true}
+{"line_no": 745, "orig": "-Has tomado demasiado...", "clean": "has tomado mucho...", "llm_keep": true}
+{"line_no": 746, "orig": "-Hasta las pelotas.", "clean": "hasta las pelotas", "llm_keep": true}
+{"line_no": 747, "orig": "-¿Organizar mi vida?", "clean": "organizar mi vida", "llm_keep": true}
+{"line_no": 748, "orig": "Oh, Dios mío...", "clean": "dios mio...", "llm_keep": true}
+{"line_no": 749, "orig": "-Sí, como acompañante.", "clean": "si como acompañante", "llm_keep": true}
+{"line_no": 750, "orig": "-¿Eres de Chile?", "clean": "eres de chile", "llm_keep": true}
+{"line_no": 751, "orig": "Podemos garantizar eso.", "clean": "podemos asegurar eso", "llm_keep": true}
+{"line_no": 752, "orig": "-¿Todo bien, Rose?", "clean": "todo bien rose", "llm_keep": true}
+{"line_no": 768, "orig": "¿A dónde vas?", "clean": "a donde va", "llm_keep": true}
+{"line_no": 770, "orig": "como lo hacemos?", "clean": "como hacemos", "llm_keep": true}
+{"line_no": 771, "orig": "Volví por él.", "clean": "volví por él", "llm_keep": true}
+{"line_no": 772, "orig": "Qué quieres decir?", "clean": "que quieres decir", "llm_keep": true}
+{"line_no": 773, "orig": "Qué estás haciendo?", "clean": "estás haciendo", "llm_keep": true}
+{"line_no": 774, "orig": "- Dame tu arma.", "clean": "dame tu arma", "llm_keep": true}
+{"line_no": 775, "orig": "¿Qué tal así?", "clean": "qué tal así", "llm_keep": true}
+{"line_no": 776, "orig": "- D, por favor.", "clean": "d por favor", "llm_keep": true}
+{"line_no": 777, "orig": "Pero ella sí.", "clean": "ella sí", "llm_keep": true}
+{"line_no": 778, "orig": "¿Cuánto piensa gastar?", "clean": "piensa gastar", "llm_keep": true}
+{"line_no": 779, "orig": "¡Ni una vez!", "clean": "! ni una vez!", "llm_keep": true}
+{"line_no": 780, "orig": "Eso es imposible.", "clean": "eso es imposible", "llm_keep": true}
+{"line_no": 781, "orig": "Proteger al inocente.", "clean": "protector inocente", "llm_keep": true}
+{"line_no": 782, "orig": "No es Hamlet", "clean": "no es hamlet", "llm_keep": true}
+{"line_no": 783, "orig": "Es Danny Croucher.", "clean": "es danny croucher", "llm_keep": true}
+{"line_no": 784, "orig": "Chris y Annie.", "clean": "chris y annie", "llm_keep": true}
+{"line_no": 785, "orig": "¿Que está pasando?", "clean": "qué está pasando", "llm_keep": true}
+{"line_no": 832, "orig": "Soy todo oídos.", "clean": "Soy todo oídos.", "llm_keep": true}
+{"line_no": 833, "orig": "- Ludo, ¡Me voy!", "clean": "- Ludo, me voy!", "llm_keep": true}
+{"line_no": 834, "orig": "J-Lo, todos.", "clean": "J-Lo, todos.", "llm_keep": true}
+{"line_no": 835, "orig": "¡En el culo!", "clean": "!En el culo!", "llm_keep": true}
+{"line_no": 836, "orig": "No te preocupes.", "clean": "No te preocupés.", "llm_keep": true}
+{"line_no": 837, "orig": "Bien, ¿qué tenemos?", "clean": "Bien, ¿qué tenemos?", "llm_keep": true}
+{"line_no": 838, "orig": "¿Quiere Direct TV?", "clean": "¿Quiere Direct TV?", "llm_keep": true}
+{"line_no": 839, "orig": "Vamos, Escaqueado. ¡Vamos!", "clean": "Vamos, Escaqueado. ¡Vamos!", "llm_keep": true}
+{"line_no": 840, "orig": "No es gordura.", "clean": "No es gordura.", "llm_keep": true}
+{"line_no": 841, "orig": "Para que mires.", "clean": "Para que mires.", "llm_keep": true}
+{"line_no": 842, "orig": "van a construir.", "clean": "van a construir.", "llm_keep": true}
+{"line_no": 843, "orig": "¿Un tipo orgulloso?", "clean": "¿Un tipo orgulloso?", "llm_keep": true}
+{"line_no": 844, "orig": "Lo que sea.", "clean": "Lo que sea.", "llm_keep": true}
+{"line_no": 845, "orig": "En su casa.", "clean": "En su casa.", "llm_keep": true}
+{"line_no": 846, "orig": "Te lo advierto.", "clean": "Te lo advierto.", "llm_keep": true}
+{"line_no": 847, "orig": "Sí, lo hará.", "clean": "Sí, lo hará.", "llm_keep": true}
+{"line_no": 864, "orig": "¿Dónde está Daritai?", "clean": "¿Dónde está Daritai?", "llm_keep": true}
+{"line_no": 865, "orig": "La mía sí.", "clean": "La mía sí.", "llm_keep": true}
+{"line_no": 866, "orig": "No se leer.", "clean": "No se leer.", "llm_keep": true}
+{"line_no": 867, "orig": "¿Quiere comprar esclavos?", "clean": "¿Quiere comprar esclavos?", "llm_keep": true}
+{"line_no": 868, "orig": "¿Mucho más pequeño?", "clean": "¿Mucho más pequeño?", "llm_keep": true}
+{"line_no": 869, "orig": "¿Qué te hicieron?", "clean": "¿Qué te hicieron?", "llm_keep": true}
+{"line_no": 870, "orig": "y aquel... ¡cinco!", "clean": "y aquel... ¡cinco!", "llm_keep": true}
+{"line_no": 871, "orig": "¡Tu hijo creció!", "clean": "!Tu hijo creció!", "llm_keep": true}
+{"line_no": 872, "orig": "Toma mi caballo.", "clean": "Toma mi caballo.", "llm_keep": true}
+{"line_no": 873, "orig": "¿Qué harías tú?", "clean": "¿Qué harías tú?", "llm_keep": true}
+{"line_no": 874, "orig": "- No pasa nada.", "clean": "- No pasa nada.", "llm_keep": true}
+{"line_no": 875, "orig": "Gracias por esto...", "clean": "Gracias por esto...", "llm_keep": true}
+{"line_no": 876, "orig": "Entiendes inglés, ¿no?", "clean": "Entiendes inglés, ¿no?", "llm_keep": true}
+{"line_no": 877, "orig": "¿Te hicieron daño?", "clean": "¿Te hicieron daño?", "llm_keep": true}
+{"line_no": 878, "orig": "- Todo va perfectamente.", "clean": "- Todo va perfectamente.", "llm_keep": true}
+{"line_no": 897, "orig": "Te mantendré informada.", "clean": "informe", "llm_keep": true}
+{"line_no": 898, "orig": "¡Pero sin cobardías!", "clean": "perdón", "llm_keep": true}
+{"line_no": 899, "orig": "aquí está, precisamente.", "clean": "está", "llm_keep": true}
+{"line_no": 900, "orig": "Estoy en casa;", "clean": "en casa", "llm_keep": true}
+{"line_no": 901, "orig": "Escuchadme un momento.", "clean": "escucha", "llm_keep": true}
+{"line_no": 902, "orig": "¡Qué triunfo inesperado!", "clean": "inexpuesto triunfo", "llm_keep": true}
+{"line_no": 903, "orig": "Siento mucho eso.", "clean": "siento", "llm_keep": true}
+{"line_no": 904, "orig": "- No hay problema.", "clean": "no problema", "llm_keep": true}
+{"line_no": 905, "orig": "- ¿Cómo lo sabes?", "clean": "¿cómo saber", "llm_keep": true}
+{"line_no": 906, "orig": "¿Qué me mire?", "clean": "mira", "llm_keep": true}
+{"line_no": 907, "orig": "Si, está bien.", "clean": "bien", "llm_keep": true}
+{"line_no": 908, "orig": "¿Un falso novio?", "clean": "falso novio", "llm_keep": true}
+{"line_no": 909, "orig": "¡No lo permitiré!", "clean": "no permitiré", "llm_keep": true}
+{"line_no": 910, "orig": "Dos gemelos idénticos.", "clean": "gemelos idénticos", "llm_keep": true}
+{"line_no": 911, "orig": "Katie, cometiste perjurio.", "clean": "cometiste perjuro", "llm_keep": true}
+{"line_no": 912, "orig": "Tengo que irme.", "clean": "debo irme", "llm_keep": true}
+{"line_no": 1088, "orig": "Bueno, miren eso.", "clean": "Bueno, miren eso.", "llm_keep": true}
+{"line_no": 1089, "orig": "Victoria o muerte.", "clean": "Victoria o muerte.", "llm_keep": true}
+{"line_no": 1090, "orig": "Porque hay cerveza.", "clean": "Porque hay cerveza.", "llm_keep": true}
+{"line_no": 1091, "orig": "Me siento fabuloso", "clean": "Me siento fabuloso", "llm_keep": true}
+{"line_no": 1092, "orig": "- Cariño, ¿estás bien?", "clean": "- Cariño, ¿estás bien?", "llm_keep": true}
+{"line_no": 1093, "orig": "- Cuéntame que pasó.", "clean": "- Cuéntame que pasó.", "llm_keep": true}
+{"line_no": 1094, "orig": "Quiero decir, piénsalo...", "clean": "Quiero decir, piénsalo...", "llm_keep": true}
+{"line_no": 1095, "orig": "- Eso explicaría esto.", "clean": "- Eso explicaría esto.", "llm_keep": true}
+{"line_no": 1096, "orig": "¡Muy buena mano!", "clean": "!Muy buena mano!", "llm_keep": true}
+{"line_no": 1097, "orig": "Entonces monta guardia.", "clean": "Entonces monta guardia.", "llm_keep": true}
+{"line_no": 1098, "orig": "¿Qué hace aquí?", "clean": "?¿Cariño, ¿estás bien?", "llm_keep": true}
+{"line_no": 1099, "orig": "Es mi culpa.", "clean": "?¿Cariño, ¿estás bien?", "llm_keep": true}
+{"line_no": 1100, "orig": "Tú puedes hacerlo.", "clean": "Tú puedes hacerlo.", "llm_keep": true}
+{"line_no": 1101, "orig": "¿Ves dónde vives?", "clean": "?¿Ves dónde vives?", "llm_keep": true}
+{"line_no": 1102, "orig": "Debes estar bromeando.", "clean": "?¿Cariño, ¿estás bien?", "llm_keep": true}
+{"line_no": 1122, "orig": "- Todo saldrá bien.", "clean": "Todo saldrá bien.", "llm_keep": true}
+{"line_no": 1125, "orig": "Estoy con usted.", "clean": "Estoy con usted.", "llm_keep": true}
+{"line_no": 1126, "orig": "¡Deja de fumar!", "clean": "Déjale fumar.", "llm_keep": true}
+{"line_no": 1127, "orig": "Buenas noches, tonto.", "clean": "Buenas noches, tonto.", "llm_keep": true}
+{"line_no": 1132, "orig": "¿Es tan complicado?", "clean": "¿Es tan complicado?", "llm_keep": true}
+{"line_no": 1133, "orig": "Pórtense bien, chicas.", "clean": "Pónganse bien, chicas.", "llm_keep": true}
+{"line_no": 1152, "orig": "¡Confie en mí!", "clean": "confie en mi", "llm_keep": true}
+{"line_no": 1153, "orig": "Juega con nosotros.", "clean": "juega con nosotros", "llm_keep": true}
+{"line_no": 1154, "orig": "Espera, todavía no.", "clean": "espera, aún no", "llm_keep": true}
+{"line_no": 1155, "orig": "Vale, me voy...", "clean": "vale, me voy...", "llm_keep": true}
+{"line_no": 1156, "orig": "Es donde trabajo", "clean": "es donde trabajo", "llm_keep": true}
+{"line_no": 1157, "orig": "- ¿Adónde carajo vas?", "clean": "- adónde carajo vas?", "llm_keep": true}
+{"line_no": 1158, "orig": "No, ¿qué haces?", "clean": "no, ¿qué haces?", "llm_keep": true}
+{"line_no": 1159, "orig": "- ¿Quién es ése?", "clean": "- quién es ese?", "llm_keep": true}
+{"line_no": 1160, "orig": "Oh, qué demonios.", "clean": "oh, qué demonios.", "llm_keep": true}
+{"line_no": 1161, "orig": "No estamos seguros.", "clean": "no estamos seguros.", "llm_keep": true}
+{"line_no": 1162, "orig": "Ella me protegió.", "clean": "ella me protegió", "llm_keep": true}
+{"line_no": 1163, "orig": "Su música apesta.", "clean": "su música apesta", "llm_keep": true}
+{"line_no": 1164, "orig": "Mamá, de verdad.", "clean": "mamá, de verdad", "llm_keep": true}
+{"line_no": 1165, "orig": "Eres mi chico.", "clean": "eres mi chico", "llm_keep": true}
+{"line_no": 1167, "orig": "noche salvaje eh?", "clean": "subtítulos hechos por:", "llm_keep": true}
+{"line_no": 1184, "orig": "Quédese aquí, señorita.", "clean": "quedese aqui senorit", "llm_keep": true}
+{"line_no": 1216, "orig": "- Sólo una vez.", "clean": "solo una vez", "llm_keep": true}
+{"line_no": 1280, "orig": "Sí, lo estoy.", "clean": "estoy", "llm_keep": true}
+{"line_no": 1281, "orig": "No me arrestaron.", "clean": "me arrestaron", "llm_keep": true}
+{"line_no": 1282, "orig": "No te enojes.", "clean": "no te enojes", "llm_keep": true}
+{"line_no": 1283, "orig": "Me gusta Emma.", "clean": "gusta Emma", "llm_keep": true}
+{"line_no": 1284, "orig": "-Pero lo hare.", "clean": "-hacerlo", "llm_keep": true}
+{"line_no": 1285, "orig": "- ¡Aléjate de mí!", "clean": "-aléjate de mí!", "llm_keep": true}
+{"line_no": 1286, "orig": "Yo con Emma.", "clean": "yo con Emma", "llm_keep": true}
+{"line_no": 1287, "orig": "¿Qué tal mañana?", "clean": "que tal mañana?", "llm_keep": true}
+{"line_no": 1288, "orig": "Todo bien, entonces.", "clean": "todo bien, entonces.", "llm_keep": true}
+{"line_no": 1289, "orig": "Con un amigo.", "clean": "con un amigo.", "llm_keep": true}
+{"line_no": 1290, "orig": "Tengo solo 200 euros.", "clean": "tengo solo 200 euros.", "llm_keep": true}
+{"line_no": 1291, "orig": "-¿Que te molesta?", "clean": "-¿que te molesta?", "llm_keep": true}
+{"line_no": 1292, "orig": "¿Perdón, cuantos dijiste?", "clean": "?cuantos dijiste?", "llm_keep": true}
+{"line_no": 1293, "orig": "-Solos, un carajo.", "clean": "-solos, un carajo.", "llm_keep": true}
+{"line_no": 1294, "orig": "¡No es así!", "clean": "!no es así!", "llm_keep": true}
+{"line_no": 1295, "orig": "El médico dijo:", "clean": "el médico dijo:", "llm_keep": true}
+{"line_no": 1296, "orig": "-¿Que haces aquí?", "clean": "?qué haces aquí?", "llm_keep": true}
+{"line_no": 1504, "orig": "¿Cómo puedo ayudarle?", "clean": "cómo puedo ayudarlo?", "llm_keep": true}
+{"line_no": 1506, "orig": "Voy a hacerlo.", "clean": "voy a hacerlo.", "llm_keep": true}
+{"line_no": 1507, "orig": "Okay, vamos, andando.", "clean": "okay, vamos, andando.", "llm_keep": true}
+{"line_no": 1508, "orig": "¡Es un milagro!", "clean": "es un milagro!", "llm_keep": true}
+{"line_no": 1509, "orig": "Hola a todos.", "clean": "hola a todos.", "llm_keep": true}
+{"line_no": 1510, "orig": "Ya está empezando.", "clean": "ya está empezando.", "llm_keep": true}
+{"line_no": 1511, "orig": "No lo suficiente.", "clean": "no lo suficiente.", "llm_keep": true}
+{"line_no": 1512, "orig": "Toma el mío.", "clean": "toma el mio.", "llm_keep": true}
+{"line_no": 1513, "orig": "Ay, Dios mío.", "clean": "ay, dios mío.", "llm_keep": true}
+{"line_no": 1514, "orig": "Parece un monstruo.", "clean": "parece un monstruo.", "llm_keep": true}
+{"line_no": 1515, "orig": "¿Porque fue eso?", "clean": "¿por qué fue eso?", "llm_keep": true}
+{"line_no": 1516, "orig": "No me digas.", "clean": "no me digas.", "llm_keep": true}
+{"line_no": 1517, "orig": "Te amo, papá.", "clean": "te amo, papá.", "llm_keep": true}
+{"line_no": 1518, "orig": "Muy bien, gracias.", "clean": "muy bien, gracias.", "llm_keep": true}
+{"line_no": 1519, "orig": "Sólo faltan 73 minutos.", "clean": "sólo faltan 73 minutos.", "llm_keep": true}
+{"line_no": 1520, "orig": "No tengo luz.", "clean": "no tengo luz.", "llm_keep": true}
+{"line_no": 1536, "orig": "-Hablemos de ello.", "clean": "hablenso de ello", "llm_keep": true}
+{"line_no": 1537, "orig": "- ¿Cierto, Ka-kun.", "clean": "ciertoka-kun", "llm_keep": true}
+{"line_no": 1538, "orig": "Primer acto, cena.", "clean": "primeracto cencena", "llm_keep": true}
+{"line_no": 1539, "orig": "Broma, algo así.", "clean": "broma algo asi", "llm_keep": true}
+{"line_no": 1540, "orig": "Es para Morgan.", "clean": "esmorgan", "llm_keep": true}
+{"line_no": 1541, "orig": "- ¿No hay premios?", "clean": "nohaypremios", "llm_keep": true}
+{"line_no": 1542, "orig": "Estoy muy asustada.", "clean": "estoy muy asustada", "llm_keep": true}
+{"line_no": 1543, "orig": "¿Tienes a Marylin?", "clean": "tiensamarilylin", "llm_keep": true}
+{"line_no": 1544, "orig": "- Voy en camino.", "clean": "voyen camino", "llm_keep": true}
+{"line_no": 1545, "orig": "Pásame con él.", "clean": "pasamecon el", "llm_keep": true}
+{"line_no": 1546, "orig": "Te lo juro.", "clean": "tejuro", "llm_keep": true}
+{"line_no": 1547, "orig": "Cerca del aeropuerto.", "clean": "cerca del aeropuerto", "llm_keep": true}
+{"line_no": 1549, "orig": "Lo antes posible.", "clean": "lo antes posible", "llm_keep": true}
+{"line_no": 1550, "orig": "cuando ocurrirá esto.", "clean": "cuandotodoocurriresto", "llm_keep": true}
+{"line_no": 1551, "orig": "Está... ¿diciendo algo?", "clean": "esta... dicealgo", "llm_keep": true}
+{"line_no": 1568, "orig": "Es tan dulce.", "clean": "Es dulce.", "llm_keep": true}
+{"line_no": 1569, "orig": "La próxima vez.", "clean": "La vez siguiente.", "llm_keep": true}
+{"line_no": 1571, "orig": "¿Cuánto puedo cambiar?", "clean": "¿Puedo cambiar?", "llm_keep": true}
+{"line_no": 1572, "orig": "- ¿Y ahora qué?", "clean": "- ¿Y ahora qué?", "llm_keep": true}
+{"line_no": 1573, "orig": "¡Por favor tome!", "clean": "!Por favor toma!", "llm_keep": true}
+{"line_no": 1574, "orig": "Aoyagi al habla.", "clean": "Aoyagi habla.", "llm_keep": true}
+{"line_no": 1575, "orig": "¡No pueden respirar!", "clean": "!No puedan respirar!", "llm_keep": true}
+{"line_no": 1576, "orig": "¿No tiene calor?", "clean": "?No tiene calor?", "llm_keep": true}
+{"line_no": 1577, "orig": "- Él está bien.", "clean": "- Él está bien.", "llm_keep": true}
+{"line_no": 1578, "orig": "Por favor, adelante.", "clean": "Por favor, adelante.", "llm_keep": true}
+{"line_no": 1579, "orig": "Hola, soy Morgan.", "clean": "Hola, soy Morgan.", "llm_keep": true}
+{"line_no": 1580, "orig": "Solo, solo relájese.", "clean": "Solo, solo relájese.", "llm_keep": true}
+{"line_no": 1581, "orig": "Shh, gran secreto.", "clean": "Shh, gran secreto.", "llm_keep": true}
+{"line_no": 1582, "orig": "Bien, nos vamos.", "clean": "Bien, nos vamos.", "llm_keep": true}
+{"line_no": 1583, "orig": "¿Y ahora qué?", "clean": "?Y ahora qué?", "llm_keep": true}
+{"line_no": 1584, "orig": "No lo creo.", "clean": "?No lo creo.", "llm_keep": true}
+{"line_no": 1601, "orig": "Nos vemos, chicos.", "clean": "Nos vemos, chicos.", "llm_keep": true}
+{"line_no": 1602, "orig": "¿Ves la corteza?", "clean": "¿Ves la corteza?", "llm_keep": true}
+{"line_no": 1603, "orig": "¿Es tan difícil?", "clean": "¿Es tan difícil?", "llm_keep": true}
+{"line_no": 1604, "orig": "¡Cojo esa ficha!", "clean": "!Cojo esa ficha!", "llm_keep": true}
+{"line_no": 1605, "orig": "Van a entrar.", "clean": "Van a entrar.", "llm_keep": true}
+{"line_no": 1606, "orig": "¿Y los demás?", "clean": "¿Y los demás?", "llm_keep": true}
+{"line_no": 1607, "orig": "- Café, por favor.", "clean": "- Café, por favor.", "llm_keep": true}
+{"line_no": 1608, "orig": "- Necesitaremos tu ayuda.", "clean": "- Necesitaremos tu ayuda.", "llm_keep": true}
+{"line_no": 1609, "orig": "No lo sé.", "clean": "No lo sé.", "llm_keep": true}
+{"line_no": 1610, "orig": "No se preocupe.", "clean": "No se preocupe.", "llm_keep": true}
+{"line_no": 1611, "orig": "Tú lo dijiste.", "clean": "Tú lo dijiste.", "llm_keep": true}
+{"line_no": 1612, "orig": "-Mak Tai Tai.", "clean": "- Mak Tai Tai.", "llm_keep": true}
+{"line_no": 1613, "orig": "-lr al cine.", "clean": "-lr al cine.", "llm_keep": true}
+{"line_no": 1614, "orig": "Puedes llamarme Wu.", "clean": "Puedes llamarme Wu.", "llm_keep": true}
+{"line_no": 1615, "orig": "Es nuestra oportunidad.", "clean": "Es nuestra oportunidad.", "llm_keep": true}
+{"line_no": 1616, "orig": "Lo hago encantado.", "clean": "Lo hago encantado.", "llm_keep": true}
+{"line_no": 1664, "orig": "Echemos un vistazo.", "clean": "vistazo", "llm_keep": true}
+{"line_no": 1665, "orig": "Mejor que nada.", "clean": "mejor nada", "llm_keep": true}
+{"line_no": 1666, "orig": "¿Estimaste la velocidad?", "clean": "estimaste velocidad", "llm_keep": true}
+{"line_no": 1667, "orig": "Que te diviertas.", "clean": "diviértete", "llm_keep": true}
+{"line_no": 1668, "orig": "¿Qué ha hecho?", "clean": "ha hecho", "llm_keep": true}
+{"line_no": 1669, "orig": "- ¿Qué haces aquí--", "clean": "- haces aquí--", "llm_keep": true}
+{"line_no": 1670, "orig": "- Por Dios santo.", "clean": "- Dios santo.", "llm_keep": true}
+{"line_no": 1671, "orig": "¿Qué estuviste pensando?", "clean": "estuviste pensando", "llm_keep": true}
+{"line_no": 1672, "orig": "Encuentras otras compensaciones.", "clean": "encuentra compensaciones", "llm_keep": true}
+{"line_no": 1673, "orig": "¿Ud la comenzo?", "clean": "comenzó", "llm_keep": true}
+{"line_no": 1674, "orig": "Ve por allá.", "clean": "ve allá", "llm_keep": true}
+{"line_no": 1675, "orig": "¿Dónde estás, desgraciado?", "clean": "estás desgraciado", "llm_keep": true}
+{"line_no": 1676, "orig": "- Que te jodan.", "clean": "que te jódan", "llm_keep": true}
+{"line_no": 1677, "orig": "Ayúdenos, por favor.", "clean": "ayudenemos, por favor", "llm_keep": true}
+{"line_no": 1678, "orig": "- Haz un truco.", "clean": "haz truco", "llm_keep": true}
+{"line_no": 1679, "orig": "¿A la ciudad?", "clean": "a ciudad", "llm_keep": true}
+{"line_no": 1696, "orig": "Galleta, manzana, queso.", "clean": "galleta manzana queso", "llm_keep": true}
+{"line_no": 1698, "orig": "Se ha ido.", "clean": "se ha ido", "llm_keep": true}
+{"line_no": 1699, "orig": "Define \"zona caliente\".", "clean": "define zona caliente", "llm_keep": true}
+{"line_no": 1700, "orig": "No lo entiendo.", "clean": "no lo entiendo", "llm_keep": true}
+{"line_no": 1701, "orig": "¿Mina fue atacada?", "clean": "mina fue atacada", "llm_keep": true}
+{"line_no": 1702, "orig": "Esto es todo.", "clean": "esto es todo", "llm_keep": true}
+{"line_no": 1703, "orig": "Sé que ganarán.", "clean": "sé que ganarán", "llm_keep": true}
+{"line_no": 1704, "orig": "¡Pareces un niño!", "clean": "pareces un niño", "llm_keep": true}
+{"line_no": 1705, "orig": "No justo allí.", "clean": "no justo allí", "llm_keep": true}
+{"line_no": 1706, "orig": "Vaya, déjame verlo.", "clean": "vaya dejame verlo", "llm_keep": true}
+{"line_no": 1707, "orig": "No puedes renunciar.", "clean": "no puedes renunciar", "llm_keep": true}
+{"line_no": 1708, "orig": "\"y se avergonzarán.", "clean": "y se avergonzarán", "llm_keep": true}
+{"line_no": 1709, "orig": "- ¿ Qué pasa, hijo?", "clean": "- qué pasa hijo", "llm_keep": true}
+{"line_no": 1710, "orig": "LOS GRANDES DEBATES", "clean": "los grandes debates", "llm_keep": true}
+{"line_no": 1711, "orig": "¿Es muy bonita?", "clean": "es muy bonita", "llm_keep": true}
+{"line_no": 1730, "orig": "Es un hecho.", "clean": "Es un hecho.", "llm_keep": true}
+{"line_no": 1732, "orig": "Yo puedo hacerlo.", "clean": "Yo puedo hacerlo.", "llm_keep": true}
+{"line_no": 1733, "orig": "- Por la justicia.", "clean": "- Por la justicia.", "llm_keep": true}
+{"line_no": 1734, "orig": "y ¿qué hiciste?", "clean": "y ¿qué hiciste?", "llm_keep": true}
+{"line_no": 1735, "orig": "No está mal.", "clean": "No está mal.", "llm_keep": true}
+{"line_no": 1736, "orig": "¡Charcos mambo bistec!", "clean": "!Charcos mambo bistec!", "llm_keep": true}
+{"line_no": 1737, "orig": "Pasó lo peor.", "clean": "Pasó lo peor.", "llm_keep": true}
+{"line_no": 1738, "orig": "- ¿Alguna otra cosa?", "clean": "- ¿Alguna otra cosa?", "llm_keep": true}
+{"line_no": 1739, "orig": "No, soy jacob.", "clean": "No, soy jacob.", "llm_keep": true}
+{"line_no": 1740, "orig": "Es demasiado tarde.", "clean": "Es demasiado tarde.", "llm_keep": true}
+{"line_no": 1741, "orig": "- Felicítate, mi amigo.", "clean": "- Felicítate, mi amigo.", "llm_keep": true}
+{"line_no": 1742, "orig": "- ¡Yo tengo fuerza!", "clean": "- ¡Yo tengo fuerza!", "llm_keep": true}
+{"line_no": 1743, "orig": "¡Por el culo!", "clean": "!¡Por el culo!", "llm_keep": true}
+{"line_no": 1827, "orig": "Eso es correcto.", "clean": "eso es correcto", "llm_keep": true}
+{"line_no": 1839, "orig": "Fascinante... simplemente fascinante.", "clean": "fascinante... simplemente fascinante.", "llm_keep": true}
+{"line_no": 1841, "orig": "Vamos a divertirnos.", "clean": "vamos a divertirnos", "llm_keep": true}
+{"line_no": 1856, "orig": "Todo está bien.", "clean": "Todo está bien.", "llm_keep": true}
+{"line_no": 1858, "orig": "Sí o no.", "clean": "Sí o no.", "llm_keep": true}
+{"line_no": 1860, "orig": "Pues te aguantas.", "clean": "Pues te aguantas.", "llm_keep": true}
+{"line_no": 1862, "orig": "¿Tú quién eres?", "clean": "¿Tú quién eres?", "llm_keep": true}
+{"line_no": 1864, "orig": "- No podemos saberlo.", "clean": "No podemos saberlo.", "llm_keep": true}
+{"line_no": 1868, "orig": "¿Puede verlo ahora?", "clean": "¿Puede verlo ahora?", "llm_keep": true}
+{"line_no": 1869, "orig": "- Encontramos una veta...", "clean": "Encontramos una veta...", "llm_keep": true}
+{"line_no": 1870, "orig": "Dios, ¿vieron eso?", "clean": "Dios, ¿vieron eso?", "llm_keep": true}
+{"line_no": 1872, "orig": "¿Están tristes, niños?", "clean": "¡Enseñadme los dientes!", "llm_keep": true}
+{"line_no": 1888, "orig": "Gracias, lo aprecio.", "clean": "gracias aprecio", "llm_keep": true}
+{"line_no": 1984, "orig": "Son bailes inofensivos.", "clean": "bailes inofensivos.", "llm_keep": true}
+{"line_no": 1986, "orig": "No quiero irme.", "clean": "quiero irme.", "llm_keep": true}
+{"line_no": 1987, "orig": "Señor, debo reportarlo.", "clean": "debo reportarlo.", "llm_keep": true}
+{"line_no": 1988, "orig": "Elaine, mi bolso.", "clean": "mi bolso.", "llm_keep": true}
+{"line_no": 1989, "orig": "Oh, lo siento.", "clean": "lo siento.", "llm_keep": true}
+{"line_no": 1990, "orig": "Desapareció otra vaca.", "clean": "otra vaca.", "llm_keep": true}
+{"line_no": 1991, "orig": "¡Hijo de puta!", "clean": "hijo de puta.", "llm_keep": true}
+{"line_no": 1992, "orig": "¿Kale esta aquí?", "clean": "esta aquí?", "llm_keep": true}
+{"line_no": 1993, "orig": "- No dije eso.", "clean": "- dije eso.", "llm_keep": true}
+{"line_no": 1994, "orig": "Ella está ahí.", "clean": "está ahí.", "llm_keep": true}
+{"line_no": 1995, "orig": "- ¿Hablas en serio?", "clean": "- hablas en serio?", "llm_keep": true}
+{"line_no": 1996, "orig": "Sí, me iré.", "clean": "sí, me iré.", "llm_keep": true}
+{"line_no": 1997, "orig": "Ve a casa.", "clean": "ve a casa.", "llm_keep": true}
+{"line_no": 1998, "orig": "Mantengo mi elección.", "clean": "mantiene mi elección.", "llm_keep": true}
+{"line_no": 1999, "orig": "Te visitaré mañana.", "clean": "te visitaré mañana.", "llm_keep": true}
+{"line_no": 2000, "orig": "Yo la protegeré.", "clean": "yo la protegeré.", "llm_keep": true}
+{"line_no": 2017, "orig": "- Bueno, caso resuelto.", "clean": "bueno, caso resuelto.", "llm_keep": true}
+{"line_no": 2018, "orig": "- La fiesta terminó.", "clean": "fiesta terminó.", "llm_keep": true}
+{"line_no": 2022, "orig": "Puede contar conmigo.", "clean": "contar conmigo.", "llm_keep": true}
+{"line_no": 2024, "orig": "Sí, estoy bien.", "clean": "estoy bien.", "llm_keep": true}
+{"line_no": 2027, "orig": "Es un trato.", "clean": "trato.", "llm_keep": true}
+{"line_no": 2031, "orig": "Hola, soy Bob.", "clean": "Bob.", "llm_keep": true}
+{"line_no": 2048, "orig": "- Sí, por favor.", "clean": "Sí, por favor.", "llm_keep": true}
+{"line_no": 2050, "orig": "- Sí, muy bien.", "clean": "Sí, muy bien.", "llm_keep": true}
+{"line_no": 2053, "orig": "- Sí, estoy bien.", "clean": "Sí, estoy bien.", "llm_keep": true}
+{"line_no": 2055, "orig": "Hola, ¿cómo estás?", "clean": "Hola, ¿cómo estás?", "llm_keep": true}
+{"line_no": 2058, "orig": "Traeré los vasos.", "clean": "Traeré los vasos.", "llm_keep": true}
+{"line_no": 2060, "orig": "Es el viejo.", "clean": "Es el viejo.", "llm_keep": true}
+{"line_no": 2061, "orig": "Encontraremos otro camino.", "clean": "Encontraremos otro camino.", "llm_keep": true}
+{"line_no": 2064, "orig": "Soy Inge Greve.", "clean": "Soy Inge Greve.", "llm_keep": true}
+{"line_no": 2112, "orig": "Discúlpame un segundo.", "clean": "Disculpe un segundo.", "llm_keep": true}
+{"line_no": 2113, "orig": "No puedo hacerlo.", "clean": "No puedo hacerlo.", "llm_keep": true}
+{"line_no": 2114, "orig": "¿Qué pasa hombre?", "clean": "¿Qué pasa?", "llm_keep": true}
+{"line_no": 2115, "orig": "Soy un Panther.", "clean": "Soy un Panther.", "llm_keep": true}
+{"line_no": 2116, "orig": "- Cariño, ¡para ya!", "clean": "- Cariño, ¡para ya!", "llm_keep": true}
+{"line_no": 2117, "orig": "Soy un Panther.", "clean": "Soy un Panther.", "llm_keep": true}
+{"line_no": 2118, "orig": "No sé, Flashdance?", "clean": "No sé, Flashdance?", "llm_keep": true}
+{"line_no": 2119, "orig": "Competí en equitación.", "clean": "Competí en equitación.", "llm_keep": true}
+{"line_no": 2120, "orig": "¿Cómo lo hizo?", "clean": "¿Cómo lo hizo?", "llm_keep": true}
+{"line_no": 2121, "orig": "L.C. paga.", "clean": "L.C. paga.", "llm_keep": true}
+{"line_no": 2122, "orig": "No parece mexicano.", "clean": "No parece mexicano.", "llm_keep": true}
+{"line_no": 2123, "orig": "Pero lo haces.", "clean": "Pero lo haces.", "llm_keep": true}
+{"line_no": 2124, "orig": "- Michelle, mi bella.", "clean": "- Michelle, mi bella.", "llm_keep": true}
+{"line_no": 2125, "orig": "Par de reyes.", "clean": "Par de reyes.", "llm_keep": true}
+{"line_no": 2126, "orig": "- ¿Cuántos participantes tienes?", "clean": "- ¿Cuántos participantes tienes?", "llm_keep": true}
+{"line_no": 2127, "orig": "- ¿Qué nunca duermes?", "clean": "- ¿Qué nunca duermes?", "llm_keep": true}
+{"line_no": 2128, "orig": "Uno tras otro.", "clean": "Uno tras otro.", "llm_keep": true}
+{"line_no": 2211, "orig": "Eres la mejor.", "clean": "eres la mejor", "llm_keep": true}
+{"line_no": 2240, "orig": "Sí, perdón, claro.", "clean": "sí, perdón, claro.", "llm_keep": true}
+{"line_no": 2247, "orig": "Sí, así es.", "clean": "si, así es.", "llm_keep": true}
+{"line_no": 2257, "orig": "Lo siento Diana.", "clean": "lo siento diana.", "llm_keep": true}
+{"line_no": 2304, "orig": "Ese es él.", "clean": "ese es él", "llm_keep": true}
+{"line_no": 2305, "orig": "¿Lo dejamos salir?", "clean": "lo dejamos salir", "llm_keep": true}
+{"line_no": 2306, "orig": "Té, por favor.", "clean": "te por favor", "llm_keep": true}
+{"line_no": 2307, "orig": "Quieres que salude.", "clean": "quieres que salude", "llm_keep": true}
+{"line_no": 2308, "orig": "Claro que sí.", "clean": "claro que sí", "llm_keep": true}
+{"line_no": 2309, "orig": "Reglori tiene una...", "clean": "reglori tiene una...", "llm_keep": true}
+{"line_no": 2310, "orig": "Por favor, Abasi.", "clean": "por favor abasi.", "llm_keep": true}
+{"line_no": 2311, "orig": "¿Ese eres tú?", "clean": "eres tú?", "llm_keep": true}
+{"line_no": 2312, "orig": "- de su pasaporte.", "clean": "- de su pasaporte.", "llm_keep": true}
+{"line_no": 2313, "orig": "sin archivo SECRETO", "clean": "sin archivo secreto", "llm_keep": true}
+{"line_no": 2314, "orig": "Necesito tu ayuda.", "clean": "necesito tu ayuda", "llm_keep": true}
+{"line_no": 2315, "orig": "Hermanos y hermanas.", "clean": "hermanos y hermanas.", "llm_keep": true}
+{"line_no": 2316, "orig": "Toma tus discos.", "clean": "toma tus discos.", "llm_keep": true}
+{"line_no": 2317, "orig": "- ¿Qué ha pasado?", "clean": "- qué ha pasado?", "llm_keep": true}
+{"line_no": 2318, "orig": "¿Hace seis días?", "clean": "haces seis días?", "llm_keep": true}
+{"line_no": 2319, "orig": "Llama a Abdou.", "clean": "llama a abdou.", "llm_keep": true}
+{"line_no": 2320, "orig": "Usted es ingeniero.", "clean": "usted es ingeniero.", "llm_keep": true}
+{"line_no": 2400, "orig": "Quizá sigues así.", "clean": "Quizás sigues así.", "llm_keep": true}
+{"line_no": 2402, "orig": "Vamos a subir.", "clean": "Vamos a subir.", "llm_keep": true}
+{"line_no": 2403, "orig": "Estoy muy cansado.", "clean": "Estoy muy cansado.", "llm_keep": true}
+{"line_no": 2404, "orig": "Porque es Miguel.", "clean": "Porque es Miguel.", "llm_keep": true}
+{"line_no": 2405, "orig": "-¡A buenas horas!", "clean": "-¡A buenas horas!", "llm_keep": true}
+{"line_no": 2406, "orig": "Platícame sobre ella.", "clean": "Plátícame sobre ella.", "llm_keep": true}
+{"line_no": 2407, "orig": "Hotel Biltmore, habitación 713.", "clean": "Hotel Biltmore, habitación 713.", "llm_keep": true}
+{"line_no": 2408, "orig": "Demasiado a Coraline.", "clean": "Demasiado a Coraline.", "llm_keep": true}
+{"line_no": 2409, "orig": "No lo oigo.", "clean": "No lo oigo.", "llm_keep": true}
+{"line_no": 2410, "orig": "Mira, está señalando.", "clean": "Mira, está señalando.", "llm_keep": true}
+{"line_no": 2411, "orig": "Te enseñaré simpatía.", "clean": "Te enseñaré simpatía.", "llm_keep": true}
+{"line_no": 2412, "orig": "Es tu mamá.", "clean": "Es tu mamá.", "llm_keep": true}
+{"line_no": 2413, "orig": "Eso es ridículo.", "clean": "Eso es ridículo.", "llm_keep": true}
+{"line_no": 2414, "orig": "¿Para el mal?", "clean": "¿Para el mal?", "llm_keep": true}
+{"line_no": 2432, "orig": "Miren las pistas.", "clean": "Miren las pistas.", "llm_keep": true}
+{"line_no": 2464, "orig": "No estuvo mal.", "clean": "no estubo mal", "llm_keep": true}
+{"line_no": 2466, "orig": "Llegamos a tiempo.", "clean": "llegamos a tiempo", "llm_keep": true}
+{"line_no": 2467, "orig": "No tengo hambre.", "clean": "noto hambre", "llm_keep": true}
+{"line_no": 2468, "orig": "- ¿Palitos de pescado?", "clean": "palitos de pescado?", "llm_keep": true}
+{"line_no": 2469, "orig": "- ¿Lo sazonó bien?", "clean": "lo sazonó bien?", "llm_keep": true}
+{"line_no": 2470, "orig": "Pensé que sí.", "clean": "pensé que sí", "llm_keep": true}
+{"line_no": 2471, "orig": "Buscaré a alguien.", "clean": "buscaré a alguien", "llm_keep": true}
+{"line_no": 2472, "orig": "- ¿Algo no interesante?", "clean": "algo no interesante?", "llm_keep": true}
+{"line_no": 2473, "orig": "Se ve genial.", "clean": "se ve genial", "llm_keep": true}
+{"line_no": 2474, "orig": "No está mal.", "clean": "no esta mal", "llm_keep": true}
+{"line_no": 2475, "orig": "Eres tan romántico.", "clean": "eres tan romántico", "llm_keep": true}
+{"line_no": 2476, "orig": "Cuatro manos más.", "clean": "cuatro manos mas", "llm_keep": true}
+{"line_no": 2477, "orig": "Estaré bien aqui", "clean": "estaré bien aqui", "llm_keep": true}
+{"line_no": 2478, "orig": "Will, ¿estás aquí?", "clean": "will, estás aqui?", "llm_keep": true}
+{"line_no": 2479, "orig": "Cerraron el subterráneo.", "clean": "cerraron el subterráneo.", "llm_keep": true}
+{"line_no": 2480, "orig": "- ¿Qué estás haciendo?", "clean": "¿qué estas haciendo?", "llm_keep": true}
+{"line_no": 2560, "orig": "¿Qué está sucediendo?", "clean": "que esta sucediendo", "llm_keep": true}
+{"line_no": 2563, "orig": "¿Sabe qué es?", "clean": "sabe que es", "llm_keep": true}
+{"line_no": 2565, "orig": "¡Esto es grandioso!", "clean": "esto es grandioso", "llm_keep": true}
+{"line_no": 2567, "orig": "Luces tan hermosa.", "clean": "luces tan hermosa", "llm_keep": true}
+{"line_no": 2568, "orig": "¡Déjate de joder!", "clean": "dejarle joder", "llm_keep": true}
+{"line_no": 2571, "orig": "¿Qué es eso?", "clean": "eso es maravilloso", "llm_keep": true}
+{"line_no": 2573, "orig": "Eso es maravilloso.", "clean": "es ese", "llm_keep": true}
+{"line_no": 2575, "orig": "¿Como lo supiste?", "clean": "es eso", "llm_keep": true}
+{"line_no": 2576, "orig": "Disculpe señor terrorista.", "clean": "disculpe señor terrorista", "llm_keep": true}
+{"line_no": 2577, "orig": "Maldita sea, Tom.", "clean": "maldita sea tom", "llm_keep": true}
+{"line_no": 2592, "orig": "¿Cómo es posible?", "clean": "¿Cómo es posible?", "llm_keep": true}
+{"line_no": 2593, "orig": "No te oí.", "clean": "No te oí.", "llm_keep": true}
+{"line_no": 2594, "orig": "- Tiene razón, Arthur.", "clean": "- Tiene razón, Arthur.", "llm_keep": true}
+{"line_no": 2595, "orig": "- Katie, por favor.", "clean": "- Katie, por favor.", "llm_keep": true}
+{"line_no": 2596, "orig": "- Gracias por venir.", "clean": "- Gracias por venir.", "llm_keep": true}
+{"line_no": 2597, "orig": "Está loca, Ellen.", "clean": "Está loca, Ellen.", "llm_keep": true}
+{"line_no": 2598, "orig": "Que es suerte...", "clean": "Que es suerte...", "llm_keep": true}
+{"line_no": 2599, "orig": "Fue bueno conmigo.", "clean": "Fue bueno conmigo.", "llm_keep": true}
+{"line_no": 2600, "orig": "Nos vemos, Declan.", "clean": "Nos vemos, Declan.", "llm_keep": true}
+{"line_no": 2601, "orig": "Debió bien consultarte.", "clean": "Debió bien consultarte.", "llm_keep": true}
+{"line_no": 2602, "orig": "¿No quieres nada?", "clean": "?No quieres nada?", "llm_keep": true}
+{"line_no": 2603, "orig": "Es la hora.", "clean": "?Es la hora.", "llm_keep": true}
+{"line_no": 2604, "orig": "- En la cabina...", "clean": "- En la cabina...", "llm_keep": true}
+{"line_no": 2605, "orig": "Ella me irrita.", "clean": "Ella me irrita.", "llm_keep": true}
+{"line_no": 2606, "orig": "¡Eres un payaso!", "clean": "!Eres un payaso!", "llm_keep": true}
+{"line_no": 2607, "orig": "Troels Hartman, policía.", "clean": "Troels Hartman, policía.", "llm_keep": true}
+{"line_no": 2656, "orig": "¿Tiene un segundo?", "clean": "tiene segundo", "llm_keep": true}
+{"line_no": 2658, "orig": "¿Empacadores de carne?", "clean": "empacadores carne", "llm_keep": true}
+{"line_no": 2659, "orig": "Vive un año....", "clean": "vive año...", "llm_keep": true}
+{"line_no": 2660, "orig": "No lo sé.", "clean": "no se", "llm_keep": true}
+{"line_no": 2661, "orig": "¿De qué hablas?", "clean": "de qué hablas", "llm_keep": true}
+{"line_no": 2664, "orig": "¿Pedimos más vino?", "clean": "pedimos más vino", "llm_keep": true}
+{"line_no": 2665, "orig": "Oh, mi Dios.", "clean": "oh, mi dios", "llm_keep": true}
+{"line_no": 2666, "orig": "- Hola, muchachos, adelante.", "clean": "hola, adelante", "llm_keep": true}
+{"line_no": 2667, "orig": "Un mes después...", "clean": "mes después...", "llm_keep": true}
+{"line_no": 2668, "orig": "- Sí, ¿tengo razón?", "clean": "sí, tengo razón?", "llm_keep": true}
+{"line_no": 2669, "orig": "- Esto es mío.", "clean": "esto es mio", "llm_keep": true}
+{"line_no": 2670, "orig": "- ¿Por qué no?", "clean": "por qué no?", "llm_keep": true}
+{"line_no": 2671, "orig": "Día tras día.", "clean": "día tras día", "llm_keep": true}
+{"line_no": 2672, "orig": "- ¿Pero qué dices?", "clean": "¿pero qué dices?", "llm_keep": true}
+{"line_no": 2720, "orig": "Estoy tan emocionada.", "clean": "estoy emocionada", "llm_keep": true}
+{"line_no": 2752, "orig": "Compórtate, por favor.", "clean": "Compórtate", "llm_keep": true}
+{"line_no": 2753, "orig": "Sólo dispara, Mahone.", "clean": "dispara", "llm_keep": true}
+{"line_no": 2754, "orig": "- ...a mi coche?", "clean": "a mi coche?", "llm_keep": true}
+{"line_no": 2755, "orig": "Sin problema, doctor.", "clean": "Sin problema, doctor.", "llm_keep": true}
+{"line_no": 2756, "orig": "Sólo unos minutos.", "clean": "unos minutos.", "llm_keep": true}
+{"line_no": 2757, "orig": "Estoy perdiendo negocios.", "clean": "perdiendo negocios.", "llm_keep": true}
+{"line_no": 2758, "orig": "¿Qué esta pasando?", "clean": "pasando?", "llm_keep": true}
+{"line_no": 2759, "orig": "¿Qué está pasando?", "clean": "pasando?", "llm_keep": true}
+{"line_no": 2760, "orig": "¿Dónde está Shirley?", "clean": "Shirley?", "llm_keep": true}
+{"line_no": 2761, "orig": "Todos cometemos errores.", "clean": "cometimos errores.", "llm_keep": true}
+{"line_no": 2762, "orig": "- ¿De qué hablas?", "clean": "hablas?", "llm_keep": true}
+{"line_no": 2763, "orig": "Sí, así es.", "clean": "sí, así es.", "llm_keep": true}
+{"line_no": 2764, "orig": "Estoy perdiendo clientes.", "clean": "pasando?", "llm_keep": true}
+{"line_no": 2765, "orig": "Scott, Nathan Scott.", "clean": "Scott, Nathan Scott.", "llm_keep": true}
+{"line_no": 2766, "orig": "Aprobé el examen.", "clean": "aprobo el examen.", "llm_keep": true}
+{"line_no": 2767, "orig": "- No lo creo.", "clean": "No lo creo.", "llm_keep": true}
+{"line_no": 2848, "orig": "Espera, soy yo.", "clean": "espera soy yo", "llm_keep": true}
+{"line_no": 2850, "orig": "Respire profundo, Bertha.", "clean": "respira profundamente bertha", "llm_keep": true}
+{"line_no": 2851, "orig": "Sincero pero artero.", "clean": "sincero pero artero", "llm_keep": true}
+{"line_no": 2852, "orig": "Dígalo. \"Te odio\".", "clean": "digale te odio", "llm_keep": true}
+{"line_no": 2853, "orig": "Nos quedamos nosotros.", "clean": "nos quedamos nosotros", "llm_keep": true}
+{"line_no": 2854, "orig": "Sí, en serio.", "clean": "sino en serio", "llm_keep": true}
+{"line_no": 2855, "orig": "Voy en camino.", "clean": "voy en camino", "llm_keep": true}
+{"line_no": 2857, "orig": "Yo... no sé.", "clean": "no se", "llm_keep": true}
+{"line_no": 2860, "orig": "Está gravemente herida.", "clean": "está gravemente herida", "llm_keep": true}
+{"line_no": 2861, "orig": "Olvidé darte esto.", "clean": "olvide darte esto", "llm_keep": true}
+{"line_no": 2862, "orig": "Tengo una idea.", "clean": "tengo una idea", "llm_keep": true}
+{"line_no": 2863, "orig": "Por Dios. ¡Mierda!", "clean": "por dios mierda", "llm_keep": true}
+{"line_no": 2864, "orig": "Llama a George.", "clean": "llama a george", "llm_keep": true}
+{"line_no": 2880, "orig": "Porque ella existe.", "clean": "porque ella existe", "llm_keep": true}
+{"line_no": 2882, "orig": "- No, está bien.", "clean": "- no, está bien.", "llm_keep": true}
+{"line_no": 2883, "orig": "Todo, yo, nosotros.", "clean": "todo yo nosotros", "llm_keep": true}
+{"line_no": 2884, "orig": "Si, lo fue.", "clean": "si lo fue", "llm_keep": true}
+{"line_no": 2885, "orig": "Estamos en camino.", "clean": "estamos en camino", "llm_keep": true}
+{"line_no": 2886, "orig": "No, señor, absolutamente.", "clean": "no señor absolutamente", "llm_keep": true}
+{"line_no": 2887, "orig": "No pasó nada.", "clean": "no paso nada", "llm_keep": true}
+{"line_no": 2888, "orig": "Realmente lo apreciamos.", "clean": "realmente lo apreciamos", "llm_keep": true}
+{"line_no": 2889, "orig": "¿Cuándo lo acordamos?", "clean": "cuando lo acordamos", "llm_keep": true}
+{"line_no": 2890, "orig": "Bueno, Srta. Nardini,", "clean": "bueno srna nardini", "llm_keep": true}
+{"line_no": 2891, "orig": "Eso está bien.", "clean": "eso esta bien", "llm_keep": true}
+{"line_no": 2892, "orig": "Bueno, yo creo...", "clean": "bueno yo creo...", "llm_keep": true}
+{"line_no": 2893, "orig": "- ¿Cómo los llamas?", "clean": "- como los llamas", "llm_keep": true}
+{"line_no": 2894, "orig": "- Mi experimento funciono.", "clean": "- mi experimento funciono", "llm_keep": true}
+{"line_no": 2895, "orig": "Lo memorizas todo!", "clean": "lo memorizas todo!", "llm_keep": true}
+{"line_no": 2944, "orig": "¿Qué hay aquí?", "clean": "¿Qué hay aquí?", "llm_keep": true}
+{"line_no": 2946, "orig": "Puedes descansar después.", "clean": "Puedes descansar después.", "llm_keep": true}
+{"line_no": 2947, "orig": "Deja un mensaje.", "clean": "Deja un mensaje.", "llm_keep": true}
+{"line_no": 2948, "orig": "Iba a decírtelo.", "clean": "Iba a decírtelo.", "llm_keep": true}
+{"line_no": 2949, "orig": "- La veremos hoy.", "clean": "- La veremos hoy.", "llm_keep": true}
+{"line_no": 2950, "orig": "Oh, está bien.", "clean": "Oh, está bien.", "llm_keep": true}
+{"line_no": 2951, "orig": "Es su padre.", "clean": "Es su padre.", "llm_keep": true}
+{"line_no": 2952, "orig": "Cariño, sostén esto.", "clean": "Cariño, sostén esto.", "llm_keep": true}
+{"line_no": 2953, "orig": "Primero lo primero.", "clean": "Primero lo primero.", "llm_keep": true}
+{"line_no": 2954, "orig": "Tengo que intentarlo.", "clean": "Tengo que intentarlo.", "llm_keep": true}
+{"line_no": 2955, "orig": "Toma esta mejor.", "clean": "Toma esta mejor.", "llm_keep": true}
+{"line_no": 2956, "orig": "Buenas noches, gracias.", "clean": "Buenas noches, gracias.", "llm_keep": true}
+{"line_no": 2957, "orig": "- Por favor, suélteme.", "clean": "- Por favor, suélteme.", "llm_keep": true}
+{"line_no": 2958, "orig": "- Del otro lado.", "clean": "- Del otro lado.", "llm_keep": true}
+{"line_no": 2959, "orig": "Me arreglé poquito.", "clean": "Me arreglé poquito.", "llm_keep": true}
+{"line_no": 2976, "orig": "Ya me desperté.", "clean": "Ya me desperté.", "llm_keep": true}
+{"line_no": 2977, "orig": "Disculpa mi retraso.", "clean": "Disculpa mi retraso.", "llm_keep": true}
+{"line_no": 2979, "orig": "No duró mucho.", "clean": "No duró mucho.", "llm_keep": true}
+{"line_no": 2980, "orig": "- Levanta la mirada.", "clean": "- Levanta la mirada.", "llm_keep": true}
+{"line_no": 2981, "orig": "¿Te envía Heather?", "clean": "? Te envía Heather?", "llm_keep": true}
+{"line_no": 2982, "orig": "¡Es el FC!", "clean": "! Es el FC!", "llm_keep": true}
+{"line_no": 2983, "orig": "Esa soy yo.", "clean": "Esa soy yo.", "llm_keep": true}
+{"line_no": 2984, "orig": "ni siquiera existe.", "clean": "ni siquiera existe.", "llm_keep": true}
+{"line_no": 2985, "orig": "Sí, puedo esperar.", "clean": "Sí, puedo esperar.", "llm_keep": true}
+{"line_no": 2986, "orig": "Antes ha funcionado.", "clean": "Antes ha funcionado.", "llm_keep": true}
+{"line_no": 2987, "orig": "¡Que te den!", "clean": "! Que te den!", "llm_keep": true}
+{"line_no": 2989, "orig": "- Fibrilación ventricular estable.", "clean": "- Fibrilación ventricular estable.", "llm_keep": true}
+{"line_no": 2990, "orig": "Por favor, ¿cuánto?", "clean": "Por favor, ¿cuánto?", "llm_keep": true}
+{"line_no": 2991, "orig": "Eres el dentista.", "clean": "Eres el dentista.", "llm_keep": true}
+{"line_no": 3040, "orig": "Bien, se terminó.", "clean": "Bien, se terminó.", "llm_keep": true}
+{"line_no": 3072, "orig": "Hombre de suerte.", "clean": "hombre de suerte", "llm_keep": true}
+{"line_no": 3074, "orig": "Por favor, Mike.", "clean": "por favor, mike", "llm_keep": true}
+{"line_no": 3075, "orig": "¿Sabes por qué?", "clean": "sabes por qué", "llm_keep": true}
+{"line_no": 3076, "orig": "Dame tus llaves.", "clean": "dame tus llaves", "llm_keep": true}
+{"line_no": 3077, "orig": "- ¡Quédense donde están!", "clean": "quedense donde estan", "llm_keep": true}
+{"line_no": 3078, "orig": "No lo toques.", "clean": "no lo toques", "llm_keep": true}
+{"line_no": 3079, "orig": "-Pon mente positiva.", "clean": "pon mente positiva", "llm_keep": true}
+{"line_no": 3080, "orig": "Gracias a Dios.", "clean": "gracias a dios", "llm_keep": true}
+{"line_no": 3081, "orig": "-Mantente en contacto.", "clean": "mantente en contacto", "llm_keep": true}
+{"line_no": 3082, "orig": "Déjalo cerca, socio.", "clean": "dejaelo cerca, socio", "llm_keep": true}
+{"line_no": 3083, "orig": "No te pierdas.", "clean": "no te pierdas", "llm_keep": true}
+{"line_no": 3084, "orig": "Dame un segundo.", "clean": "dame un segundo", "llm_keep": true}
+{"line_no": 3085, "orig": "De no ganar.", "clean": "de no ganar", "llm_keep": true}
+{"line_no": 3086, "orig": "- Así me gusta.", "clean": "así me gusta", "llm_keep": true}
+{"line_no": 3087, "orig": "No fue almuerzo.", "clean": "no fue almuerzo", "llm_keep": true}
+{"line_no": 3088, "orig": "Es realmente asombroso.", "clean": "es realmente asombroso", "llm_keep": true}
+{"line_no": 3104, "orig": "Sí, lo es.", "clean": "Sí, lo es.", "llm_keep": true}
+{"line_no": 3105, "orig": "Hay algo más.", "clean": "Hay algo más.", "llm_keep": true}
+{"line_no": 3106, "orig": "Huele a sopa.", "clean": "Huele a sopa.", "llm_keep": true}
+{"line_no": 3107, "orig": "- Pero es divertido.", "clean": "- Pero es divertido.", "llm_keep": true}
+{"line_no": 3108, "orig": "No, te oigo.", "clean": "No, te oigo.", "llm_keep": true}
+{"line_no": 3109, "orig": "¿Debería ir contigo?", "clean": "¿Deberías ir contigo?", "llm_keep": true}
+{"line_no": 3110, "orig": "¡Juno ha ganado!", "clean": "!Juno ha ganado!", "llm_keep": true}
+{"line_no": 3111, "orig": "Estás tocando música.", "clean": "Estás tocando música.", "llm_keep": true}
+{"line_no": 3112, "orig": "- Sí, cómo no.", "clean": "- Sí, cómo no.", "llm_keep": true}
+{"line_no": 3113, "orig": "Qué pasote, tío.", "clean": "Qué pasote, tío.", "llm_keep": true}
+{"line_no": 3114, "orig": "Huele a sopa.", "clean": "Huele a sopa.", "llm_keep": true}
+{"line_no": 3115, "orig": "¿Te quieres callar?", "clean": "?Te quieres callar?", "llm_keep": true}
+{"line_no": 3116, "orig": "Cuando tú decidas.", "clean": "Cuando tú decidas.", "llm_keep": true}
+{"line_no": 3117, "orig": "¿Tambien s calvo?", "clean": "?También s calvo?", "llm_keep": true}
+{"line_no": 3118, "orig": "Soy un planeta.", "clean": "Soy un planeta.", "llm_keep": true}
+{"line_no": 3119, "orig": "Espera un minuto.", "clean": "Espera un minuto.", "llm_keep": true}
+{"line_no": 3136, "orig": "De lo mejor.", "clean": "lo mejor", "llm_keep": true}
+{"line_no": 3138, "orig": "Envía sus saludos.", "clean": "envia sus saludos", "llm_keep": true}
+{"line_no": 3139, "orig": "Sí, lo sé.", "clean": "sabe", "llm_keep": true}
+{"line_no": 3140, "orig": "Es una broma.", "clean": "es una broma", "llm_keep": true}
+{"line_no": 3141, "orig": "Me encanta fumar.", "clean": "me encanta fumar", "llm_keep": true}
+{"line_no": 3143, "orig": "(Suena un timbre)", "clean": "(suena un timbre)", "llm_keep": true}
+{"line_no": 3144, "orig": "-El mío sí.", "clean": "-mio sí", "llm_keep": true}
+{"line_no": 3145, "orig": "-Vamos al cuartel.", "clean": "-vamos al cuartel", "llm_keep": true}
+{"line_no": 3146, "orig": "¿Usted está quemándolo?", "clean": "?usted está quemando?", "llm_keep": true}
+{"line_no": 3147, "orig": "- ¿Qué le dirás?", "clean": "-¿qué le dirás?", "llm_keep": true}
+{"line_no": 3148, "orig": "No tema amarme.", "clean": "tema amarte", "llm_keep": true}
+{"line_no": 3149, "orig": "Un trabajo ... jardinería", "clean": "jardinería", "llm_keep": true}
+{"line_no": 3150, "orig": "Sí, en vigor.", "clean": "en vigencia", "llm_keep": true}
+{"line_no": 3151, "orig": "Fuerte y leal.", "clean": "fuerte y leal", "llm_keep": true}
+{"line_no": 3152, "orig": "¿Estás bien, tigre?", "clean": "?estás bien, tigre?", "llm_keep": true}
+{"line_no": 3168, "orig": "Cariño, ¿estás bien?", "clean": "cariño, estás bien?", "llm_keep": true}
+{"line_no": 3169, "orig": "Aquí está bien.", "clean": "aquí está bien.", "llm_keep": true}
+{"line_no": 3170, "orig": "-Muy bien, enseguida.", "clean": "-muy bien, enseguida.", "llm_keep": true}
+{"line_no": 3171, "orig": "- No, cielo, no...", "clean": "-no, cielo, no...", "llm_keep": true}
+{"line_no": 3172, "orig": "- No tengo pulso.", "clean": "-no tengo pulso.", "llm_keep": true}
+{"line_no": 3173, "orig": "- Lo siento mucho.", "clean": "-lo siento mucho.", "llm_keep": true}
+{"line_no": 3174, "orig": "- Bien, todos fuera.", "clean": "-bien, todos fuera.", "llm_keep": true}
+{"line_no": 3175, "orig": "- Eres una latosa.", "clean": "-eres una latosa.", "llm_keep": true}
+{"line_no": 3176, "orig": "No lucen felices.", "clean": "no lucen felices.", "llm_keep": true}
+{"line_no": 3177, "orig": "Sólo estoy saludando.", "clean": "sólo estoy saludando.", "llm_keep": true}
+{"line_no": 3178, "orig": "Siempre hay goteras.", "clean": "siempre hay goteras.", "llm_keep": true}
+{"line_no": 3179, "orig": "No puedo verte.", "clean": "no puedo verte.", "llm_keep": true}
+{"line_no": 3180, "orig": "Estaba muy enojada.", "clean": "estaba muy enojada.", "llm_keep": true}
+{"line_no": 3181, "orig": "¿Podemos hacerlo mañana?", "clean": "?podemos hacerlo mañana?", "llm_keep": true}
+{"line_no": 3182, "orig": "Lengua de ternera.", "clean": "lenguaje de ternera.", "llm_keep": true}
+{"line_no": 3183, "orig": "No significa nada.", "clean": "-¿sabes dónde está?", "llm_keep": true}
+{"line_no": 3200, "orig": "Míralo tú mismo.", "clean": "mira tu mismo", "llm_keep": true}
+{"line_no": 3203, "orig": "Morgan esta durmiendo.", "clean": "va a muerto", "llm_keep": true}
+{"line_no": 3204, "orig": "Por Dios, Mindy.", "clean": "por dios mindy", "llm_keep": true}
+{"line_no": 3208, "orig": "Regresemos a casa.", "clean": "regresemos a casa", "llm_keep": true}
+{"line_no": 3209, "orig": "Olvidé mi llave.", "clean": "olvide llave", "llm_keep": true}
+{"line_no": 3211, "orig": "Eres una modelo.", "clean": "eres modelo", "llm_keep": true}
+{"line_no": 3212, "orig": "Eso es todo.", "clean": "eso es todo", "llm_keep": true}
+{"line_no": 3213, "orig": "- ¡Michael, por favor!", "clean": "por favor michael", "llm_keep": true}
+{"line_no": 3214, "orig": "Por tu elección.", "clean": "eleccion tu", "llm_keep": true}
+{"line_no": 3215, "orig": "¿Qué le pasa?", "clean": "que pasa", "llm_keep": true}
+{"line_no": 3216, "orig": "-No estoy bien.", "clean": "no estoy bien", "llm_keep": true}
+{"line_no": 3217, "orig": "Dos, por favor.", "clean": "otras medidas tomaste", "llm_keep": true}
+{"line_no": 3329, "orig": "No deberíais pelear.", "clean": "no deberíais pelear", "llm_keep": true}
+{"line_no": 3330, "orig": "¿Qué sucede, Alex?", "clean": "que sucede alex", "llm_keep": true}
+{"line_no": 3331, "orig": "¿Qué estás haciendo?", "clean": "que estas haciendo", "llm_keep": true}
+{"line_no": 3332, "orig": "- ¿Qué encuentras irónico?", "clean": "- que encuentras irónico", "llm_keep": true}
+{"line_no": 3333, "orig": "Oye, te conozco.", "clean": "oye te conoces", "llm_keep": true}
+{"line_no": 3334, "orig": "Me has seguido.", "clean": "me has seguido", "llm_keep": true}
+{"line_no": 3335, "orig": "Era de Isaac.", "clean": "era de isaac", "llm_keep": true}
+{"line_no": 3336, "orig": "No más preguntas.", "clean": "no mas preguntas", "llm_keep": true}
+{"line_no": 3337, "orig": "Entonces, ¿estás sola?", "clean": "entonces ests sola", "llm_keep": true}
+{"line_no": 3338, "orig": "Fue una locura.", "clean": "fue una locura", "llm_keep": true}
+{"line_no": 3339, "orig": "- Bueno, quédate quieta.", "clean": "- bueno que te quedes quieta", "llm_keep": true}
+{"line_no": 3340, "orig": "¡No te asustes!", "clean": "! no te asustes!", "llm_keep": true}
+{"line_no": 3341, "orig": "No quiero devolverla.", "clean": "quiero devolverla", "llm_keep": true}
+{"line_no": 3342, "orig": "Sí, me gusta.", "clean": "si me gusta", "llm_keep": true}
+{"line_no": 3343, "orig": "No lo sé.", "clean": "no lo siento", "llm_keep": true}
+{"line_no": 3344, "orig": "¿Quién se casa?", "clean": "quiensa casarse", "llm_keep": true}
+{"line_no": 3360, "orig": "Aquí estamos, casados.", "clean": "Aquí estamos, casados.", "llm_keep": true}
+{"line_no": 3361, "orig": "Sigue gustándome mucho.", "clean": "Sigue gustándome mucho.", "llm_keep": true}
+{"line_no": 3362, "orig": "Espera un segundo.", "clean": "Espera un segundo.", "llm_keep": true}
+{"line_no": 3363, "orig": "Es verdad, soy...", "clean": "Es verdad, soy...", "llm_keep": true}
+{"line_no": 3364, "orig": "- Tendrás que creerlo.", "clean": "- Tendrás que creerlo.", "llm_keep": true}
+{"line_no": 3365, "orig": "- Sí, lo recuerdo.", "clean": "- Sí, lo recuerdo.", "llm_keep": true}
+{"line_no": 3366, "orig": "No es sano.", "clean": "No es sano.", "llm_keep": true}
+{"line_no": 3367, "orig": "Eres tan mojigata.", "clean": "Eres tan mojigata.", "llm_keep": true}
+{"line_no": 3368, "orig": "¿Te casarías conmigo?", "clean": "¿Te casarías conmigo?", "llm_keep": true}
+{"line_no": 3369, "orig": "Pero me quedaré.", "clean": "Pero me quedaré.", "llm_keep": true}
+{"line_no": 3370, "orig": "No está mal.", "clean": "No está mal.", "llm_keep": true}
+{"line_no": 3371, "orig": "Olvídate de California.", "clean": "Olvídate de California.", "llm_keep": true}
+{"line_no": 3372, "orig": "¿Calabazas o progreso?", "clean": "¿Calabazas o progreso?", "llm_keep": true}
+{"line_no": 3373, "orig": "¿Quién dibujó esto?", "clean": "¿Quién dibujó esto?", "llm_keep": true}
+{"line_no": 3374, "orig": "¡Félix está vivo!", "clean": "! Félix está vivo!", "llm_keep": true}

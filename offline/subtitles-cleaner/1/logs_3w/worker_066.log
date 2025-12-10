@@ -1,0 +1,112 @@
+Resume from source line: -1
+scanning es.3w.part_co: 0it [00:00, ?it/s]scanning es.3w.part_co: 32it [00:15,  2.10it/s]scanning es.3w.part_co: 64it [00:31,  2.00it/s]scanning es.3w.part_co: 96it [00:47,  2.03it/s]scanning es.3w.part_co: 128it [01:01,  2.13it/s]scanning es.3w.part_co: 160it [01:15,  2.14it/s]scanning es.3w.part_co: 192it [01:32,  2.08it/s]scanning es.3w.part_co: 224it [01:47,  2.07it/s]scanning es.3w.part_co: 256it [02:03,  2.06it/s]scanning es.3w.part_co: 288it [02:18,  2.06it/s]scanning es.3w.part_co: 320it [02:34,  2.05it/s]scanning es.3w.part_co: 352it [02:51,  2.02it/s]scanning es.3w.part_co: 384it [03:06,  2.04it/s]scanning es.3w.part_co: 416it [03:22,  2.04it/s]scanning es.3w.part_co: 448it [03:37,  2.07it/s]scanning es.3w.part_co: 480it [03:52,  2.07it/s]scanning es.3w.part_co: 512it [04:08,  2.04it/s]scanning es.3w.part_co: 544it [04:25,  2.02it/s]scanning es.3w.part_co: 576it [04:41,  2.00it/s]scanning es.3w.part_co: 608it [04:57,  2.00it/s]scanning es.3w.part_co: 640it [05:13,  1.99it/s]scanning es.3w.part_co: 672it [05:29,  2.00it/s]scanning es.3w.part_co: 704it [05:45,  1.99it/s]scanning es.3w.part_co: 736it [06:02,  1.98it/s]scanning es.3w.part_co: 768it [06:18,  1.98it/s]scanning es.3w.part_co: 800it [06:34,  1.99it/s]scanning es.3w.part_co: 832it [06:49,  2.01it/s]scanning es.3w.part_co: 864it [07:06,  1.98it/s]scanning es.3w.part_co: 896it [07:21,  2.03it/s]scanning es.3w.part_co: 928it [07:36,  2.04it/s]scanning es.3w.part_co: 960it [07:51,  2.07it/s]scanning es.3w.part_co: 992it [08:07,  2.06it/s]scanning es.3w.part_co: 1024it [08:23,  2.03it/s]scanning es.3w.part_co: 1056it [08:39,  2.03it/s]scanning es.3w.part_co: 1088it [08:54,  2.05it/s]scanning es.3w.part_co: 1120it [09:10,  2.02it/s]scanning es.3w.part_co: 1152it [09:26,  2.03it/s]scanning es.3w.part_co: 1184it [09:42,  2.03it/s]scanning es.3w.part_co: 1216it [09:57,  2.03it/s]scanning es.3w.part_co: 1248it [10:14,  1.99it/s]scanning es.3w.part_co: 1280it [10:30,  2.01it/s]scanning es.3w.part_co: 1312it [10:46,  2.01it/s]scanning es.3w.part_co: 1344it [11:02,  2.01it/s]scanning es.3w.part_co: 1376it [11:17,  2.01it/s]scanning es.3w.part_co: 1408it [11:33,  2.01it/s]scanning es.3w.part_co: 1440it [11:49,  2.01it/s]scanning es.3w.part_co: 1472it [12:06,  1.98it/s]scanning es.3w.part_co: 1504it [12:22,  1.98it/s]scanning es.3w.part_co: 1536it [12:39,  1.97it/s]scanning es.3w.part_co: 1568it [12:55,  1.99it/s]scanning es.3w.part_co: 1600it [13:11,  1.98it/s]scanning es.3w.part_co: 1632it [13:28,  1.95it/s]scanning es.3w.part_co: 1664it [13:45,  1.93it/s]scanning es.3w.part_co: 1696it [14:01,  1.94it/s]scanning es.3w.part_co: 1728it [14:18,  1.93it/s]scanning es.3w.part_co: 1760it [14:34,  1.94it/s]scanning es.3w.part_co: 1792it [14:51,  1.94it/s]scanning es.3w.part_co: 1824it [15:07,  1.95it/s]scanning es.3w.part_co: 1856it [15:23,  1.97it/s]scanning es.3w.part_co: 1888it [15:38,  1.98it/s]scanning es.3w.part_co: 1920it [15:55,  1.98it/s]scanning es.3w.part_co: 1952it [16:11,  1.97it/s]scanning es.3w.part_co: 1984it [16:28,  1.95it/s]scanning es.3w.part_co: 2016it [16:44,  1.96it/s]scanning es.3w.part_co: 2048it [17:00,  1.97it/s]scanning es.3w.part_co: 2080it [17:17,  1.94it/s]scanning es.3w.part_co: 2112it [17:33,  1.95it/s]scanning es.3w.part_co: 2144it [17:50,  1.94it/s]scanning es.3w.part_co: 2176it [18:07,  1.93it/s]scanning es.3w.part_co: 2208it [18:23,  1.93it/s]scanning es.3w.part_co: 2240it [18:40,  1.92it/s]scanning es.3w.part_co: 2272it [18:57,  1.93it/s]scanning es.3w.part_co: 2304it [19:13,  1.95it/s]scanning es.3w.part_co: 2336it [19:29,  1.96it/s]scanning es.3w.part_co: 2368it [19:45,  1.96it/s]scanning es.3w.part_co: 2400it [20:02,  1.96it/s]scanning es.3w.part_co: 2432it [20:18,  1.97it/s]scanning es.3w.part_co: 2464it [20:33,  1.98it/s]scanning es.3w.part_co: 2496it [20:50,  1.97it/s]scanning es.3w.part_co: 2528it [21:06,  1.97it/s]scanning es.3w.part_co: 2560it [21:23,  1.96it/s]scanning es.3w.part_co: 2592it [21:40,  1.94it/s]scanning es.3w.part_co: 2624it [21:56,  1.93it/s]scanning es.3w.part_co: 2656it [22:12,  1.95it/s]scanning es.3w.part_co: 2688it [22:28,  1.98it/s]scanning es.3w.part_co: 2720it [22:45,  1.97it/s]scanning es.3w.part_co: 2752it [23:01,  1.95it/s]scanning es.3w.part_co: 2784it [23:18,  1.95it/s]scanning es.3w.part_co: 2816it [23:34,  1.94it/s]scanning es.3w.part_co: 2848it [23:51,  1.93it/s]scanning es.3w.part_co: 2880it [24:07,  1.94it/s]scanning es.3w.part_co: 2912it [24:24,  1.95it/s]scanning es.3w.part_co: 2944it [24:41,  1.92it/s]scanning es.3w.part_co: 2976it [24:57,  1.94it/s]scanning es.3w.part_co: 3008it [25:14,  1.93it/s]scanning es.3w.part_co: 3040it [25:30,  1.94it/s]scanning es.3w.part_co: 3072it [25:46,  1.95it/s]scanning es.3w.part_co: 3104it [26:03,  1.93it/s]scanning es.3w.part_co: 3136it [26:19,  1.97it/s]scanning es.3w.part_co: 3168it [26:35,  1.97it/s]scanning es.3w.part_co: 3200it [26:51,  1.98it/s]scanning es.3w.part_co: 3232it [27:08,  1.96it/s]scanning es.3w.part_co: 3264it [27:24,  1.95it/s]scanning es.3w.part_co: 3296it [27:40,  1.96it/s]scanning es.3w.part_co: 3328it [27:57,  1.95it/s]scanning es.3w.part_co: 3360it [28:13,  1.97it/s]scanning es.3w.part_co: 3392it [28:28,  2.02it/s]scanning es.3w.part_co: 3424it [28:41,  2.10it/s]scanning es.3w.part_co: 3456it [28:52,  2.30it/s]scanning es.3w.part_co: 3475it [28:52,  2.01it/s]
+[info] batch #0: kept 1 of 32
+[info] batch #1: kept 0 of 32
+[info] batch #2: kept 0 of 32
+[info] batch #3: kept 15 of 32
+[info] batch #4: kept 0 of 32
+[info] batch #5: kept 17 of 32
+[info] batch #6: kept 14 of 32
+[info] batch #7: kept 1 of 32
+[info] batch #8: kept 1 of 32
+[info] batch #9: kept 12 of 32
+[info] batch #10: kept 0 of 32
+[info] batch #11: kept 0 of 32
+[info] batch #12: kept 0 of 32
+[info] batch #13: kept 10 of 32
+[info] batch #14: kept 15 of 32
+[info] batch #15: kept 0 of 32
+[info] batch #16: kept 0 of 32
+[info] batch #17: kept 0 of 32
+[info] batch #18: kept 16 of 32
+[info] batch #19: kept 16 of 32
+[info] batch #20: kept 1 of 32
+[info] batch #21: kept 0 of 32
+[info] batch #22: kept 17 of 32
+[info] batch #23: kept 0 of 32
+[info] batch #24: kept 0 of 32
+[info] batch #25: kept 13 of 32
+[info] batch #26: kept 16 of 32
+[info] batch #27: kept 3 of 32
+[info] batch #28: kept 0 of 32
+[info] batch #29: kept 1 of 32
+[info] batch #30: kept 0 of 32
+[info] batch #31: kept 5 of 32
+[info] batch #32: kept 0 of 32
+[info] batch #33: kept 1 of 32
+[info] batch #34: kept 0 of 32
+[info] batch #35: kept 12 of 32
+[info] batch #36: kept 0 of 32
+[info] batch #37: kept 0 of 32
+[info] batch #38: kept 16 of 32
+[info] batch #39: kept 14 of 32
+[info] batch #40: kept 0 of 32
+[info] batch #41: kept 3 of 32
+[info] batch #42: kept 0 of 32
+[info] batch #43: kept 15 of 32
+[info] batch #44: kept 1 of 32
+[info] batch #45: kept 0 of 32
+[info] batch #46: kept 2 of 32
+[info] batch #47: kept 0 of 32
+[info] batch #48: kept 14 of 32
+[info] batch #49: kept 14 of 32
+[info] batch #50: kept 17 of 32
+[info] batch #51: kept 16 of 32
+[info] batch #52: kept 0 of 32
+[info] batch #53: kept 0 of 32
+[info] batch #54: kept 1 of 32
+[info] batch #55: kept 15 of 32
+[info] batch #56: kept 15 of 32
+[info] batch #57: kept 3 of 32
+[info] batch #58: kept 16 of 32
+[info] batch #59: kept 0 of 32
+[info] batch #60: kept 0 of 32
+[info] batch #61: kept 9 of 32
+[info] batch #62: kept 0 of 32
+[info] batch #63: kept 0 of 32
+[info] batch #64: kept 0 of 32
+[info] batch #65: kept 16 of 32
+[info] batch #66: kept 0 of 32
+[info] batch #67: kept 0 of 32
+[info] batch #68: kept 7 of 32
+[info] batch #69: kept 0 of 32
+[info] batch #70: kept 4 of 32
+[info] batch #71: kept 15 of 32
+[info] batch #72: kept 0 of 32
+[info] batch #73: kept 0 of 32
+[info] batch #74: kept 10 of 32
+[info] batch #75: kept 9 of 32
+[info] batch #76: kept 11 of 32
+[info] batch #77: kept 15 of 32
+[info] batch #78: kept 15 of 32
+[info] batch #79: kept 15 of 32
+[info] batch #80: kept 14 of 32
+[info] batch #81: kept 0 of 32
+[info] batch #82: kept 16 of 32
+[info] batch #83: kept 1 of 32
+[info] batch #84: kept 0 of 32
+[info] batch #85: kept 12 of 32
+[info] batch #86: kept 0 of 32
+[info] batch #87: kept 0 of 32
+[info] batch #88: kept 0 of 32
+[info] batch #89: kept 0 of 32
+[info] batch #90: kept 0 of 32
+[info] batch #91: kept 1 of 32
+[info] batch #92: kept 0 of 32
+[info] batch #93: kept 15 of 32
+[info] batch #94: kept 0 of 32
+[info] batch #95: kept 13 of 32
+[info] batch #96: kept 0 of 32
+[info] batch #97: kept 0 of 32
+[info] batch #98: kept 11 of 32
+[info] batch #99: kept 0 of 32
+[info] batch #100: kept 10 of 32
+[info] batch #101: kept 0 of 32
+[info] batch #102: kept 0 of 32
+[info] batch #103: kept 0 of 32
+[info] batch #104: kept 0 of 32
+[info] batch #105: kept 0 of 32
+[info] batch #106: kept 0 of 32
+[info] batch #107: kept 0 of 32
+Clean 3-word shard written to: /home/ol/_p/subtitles-cleaner/1/corpus/3w_llm/text/es3.066.clean.txt
+Meta index written to: /home/ol/_p/subtitles-cleaner/1/corpus/3w_llm/jsonl/es3.066.meta.jsonl
