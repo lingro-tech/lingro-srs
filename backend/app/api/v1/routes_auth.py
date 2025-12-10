@@ -4,14 +4,14 @@ from sqlalchemy.orm import Session
 from ...schemas.auth import TelegramAuthPayload, TokenResponse
 from ...services.telegram_auth import verify_telegram_auth
 from ...core.security import create_access_token
-from ...db.session import get_session
-from ...models.user import User
+from ...db.session import get_db
+from ...services.user_service import get_or_create_user_by_telegram_id
 
 router = APIRouter()
 
 
 @router.post("/telegram", response_model=TokenResponse)
-async def telegram_login(payload: TelegramAuthPayload, db: Session = Depends(get_session)):
+async def telegram_login(payload: TelegramAuthPayload, db: Session = Depends(get_db)):
     """
     Эндпоинт для авторизации через Telegram Login Widget.
     На вход — данные из JS, на выход — JWT-токен.
@@ -21,20 +21,8 @@ async def telegram_login(payload: TelegramAuthPayload, db: Session = Depends(get
     if not verify_telegram_auth(data):
         raise HTTPException(status_code=400, detail="Invalid Telegram auth data")
 
-    user = db.query(User).filter(User.telegram_id == payload.id).first()
+    user = get_or_create_user_by_telegram_id(db, payload)
 
-    if user is None:
-        user = User(telegram_id=payload.id)
-
-    user.username = payload.username
-    user.first_name = payload.first_name
-    user.last_name = payload.last_name
-    user.photo_url = payload.photo_url
-
-    db.add(user)
-    db.commit()
-    db.refresh(user)
-
-    access_token = create_access_token(subject=str(user.id))
+    access_token = create_access_token({"sub": str(user.id)})
 
     return TokenResponse(access_token=access_token)
