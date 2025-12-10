@@ -26,6 +26,15 @@ def get_session() -> Iterator[Session]:
         db.close()
 
 
+def get_db() -> Iterator[Session]:
+    """Dependency for providing a database session."""
+    db = SessionLocal()
+    try:
+        yield db
+    finally:
+        db.close()
+
+
 def init_models() -> None:
     """Create database tables for all models."""
     from .. import models  # noqa: F401  # ensure model metadata is loaded
