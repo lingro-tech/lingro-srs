@@ -1,6 +1,6 @@
 from fastapi import APIRouter
 
-from ...schemas.srs import ReviewRequest, ReviewResponse, SRSCard
+from ..schemas.srs import ReviewRequest, ReviewResponse, SRSCard
 
 router = APIRouter()
 

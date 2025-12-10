@@ -1,8 +1,8 @@
 from fastapi import FastAPI
 
-from .api.v1.routes_auth import router as auth_router
-from .api.v1.routes_srs import router as srs_router
-from .api.v1.routes_users import router as users_router
+from .api.routes_auth import router as auth_router
+from .api.routes_srs import router as srs_router
+from .api.routes_users import router as users_router
 from .db.session import init_models
 
 app = FastAPI(

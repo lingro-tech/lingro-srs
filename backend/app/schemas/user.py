@@ -3,6 +3,19 @@ from datetime import datetime
 from pydantic import BaseModel, ConfigDict
 
 
+class UserBase(BaseModel):
+    telegram_id: int
+    username: str | None = None
+    first_name: str | None = None
+    last_name: str | None = None
+    photo_url: str | None = None
+
+
+class UserCreate(UserBase):
+    """Пока без доп. полей — просто алиас для смыслового разделения."""
+    pass
+
+
 class UserRead(BaseModel):
     id: int
     telegram_id: int

@@ -1,8 +1,8 @@
 from fastapi import APIRouter, Depends
 
-from ...core.security import get_current_user
-from ...models.user import User
-from ...schemas.user import UserRead
+from .deps import get_current_user
+from ..models.user import User
+from ..schemas.user import UserRead
 
 router = APIRouter()
 
